@@ -1,8 +1,7 @@
-
-🛒 Retail Store Data Analysis Project
-📌 Project Overview
-Project Title : retail_sales_analysis
-Database :superstore_db
+#🛒 Retail Store Data Analysis Project
+##📌 Project Overview
+**Project Title** : retail_sales_analysis
+**Database **:superstore_db
 This project focuses on analyzing a retail store dataset containing information about orders, customers, products, sales, discounts, and profit. The goal is to transform raw transactional data into meaningful business insights using SQL and data analysis techniques.
 
 
