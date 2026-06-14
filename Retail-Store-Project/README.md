@@ -31,6 +31,7 @@ df.to_sql("superstore", con=engine, if_exists="replace", index=False)
 print("Data uploaded successfully!")
 ```
 2 📊 Revenue & Profitability Analysis
+
 #1 Which products generate high sales but low profit?
 ```sql
 select 
