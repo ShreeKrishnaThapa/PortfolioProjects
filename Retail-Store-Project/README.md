@@ -32,7 +32,7 @@ print("Data uploaded successfully!")
 ```
 2 📊 Revenue & Profitability Analysis
 
-#1 Which products generate high sales but low profit?
+Q1 Which products generate high sales but low profit?
 ```sql
 select 
 product_name,
@@ -44,8 +44,19 @@ GROUP BY product_name
 having total_profit > 0 and total_profit < 1500
 order by total_sales desc;
 ```
-#2 Which products generate low sales but high profit?
+Q2 Which products generate low sales but high profit?
 ```sql
+select 
+product_name,
+sum(sales) as total_sales,
+sum(profit) as total_profit,
+round((sum(profit) / sum(sales))* 100 , 2) as `profit_margin(%)`
+FROM superstore_db.superstore
+GROUP BY product_name
+HAVING 
+    sum(profit) > 500 and sum(sales) < 500000
+ORDER BY 
+    total_profit desc;
+```
+Q3
 
-
-2 Data anyk
