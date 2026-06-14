@@ -19,7 +19,7 @@ This project focuses on analyzing a retail store dataset containing information 
 7. Provide data-driven insights for improving business decisions
 
 Project Structure
-🔄 ETL Pipeline: Python to MySQL
+1🔄 ETL Pipeline: Python to MySQL
 This project implements an ETL (Extract, Transform, Load) pipeline to move retail sales data from a local CSV file into a MySQL database using Python 
 ```python
 from sqlalchemy import create_engine
@@ -30,6 +30,21 @@ engine = create_engine(
 df.to_sql("superstore", con=engine, if_exists="replace", index=False)
 print("Data uploaded successfully!")
 ```
+2 📊 Revenue & Profitability Analysis
+#1 Which products generate high sales but low profit?
+```sql
+select 
+product_name,
+sum(sales) as total_sales,
+sum(profit) as total_profit,
+round((sum(profit) / sum(sales))* 100 , 2) as `profit_margin(%)`
+FROM superstore_db.superstore
+GROUP BY product_name
+having total_profit > 0 and total_profit < 1500
+order by total_sales desc;
+```
+#2 Which products generate low sales but high profit?
+```sql
 
 
-
+2 Data anyk
