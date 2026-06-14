@@ -19,7 +19,9 @@ This project focuses on analyzing a retail store dataset containing information 
 7. Provide data-driven insights for improving business decisions
 
 Project Structure
+
 1🔄 ETL Pipeline: Python to MySQL
+
 This project implements an ETL (Extract, Transform, Load) pipeline to move retail sales data from a local CSV file into a MySQL database using Python 
 ```python
 from sqlalchemy import create_engine
