@@ -18,7 +18,7 @@ This project focuses on analyzing a retail store dataset containing information 
 6. Identify high-value customers and revenue contributors
 7. Provide data-driven insights for improving business decisions
 
-Project Structure
+📁 Project Structure
 
 1🔄 ETL Pipeline: Python to MySQL
 
@@ -32,7 +32,8 @@ engine = create_engine(
 df.to_sql("superstore", con=engine, if_exists="replace", index=False)
 print("Data uploaded successfully!")
 ```
-2 📊 Revenue & Profitability Analysis
+📊 SQL Analytics Layer
+💰 Revenue & Profitability Analysis
 
 Q1 Which products generate high sales but low profit?
 ```sql
