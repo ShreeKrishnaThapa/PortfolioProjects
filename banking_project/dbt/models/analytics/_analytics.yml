@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: customer_summary
+    description: "Customer-level summary including loan information."
+
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier."
+        tests:
+          - unique
+          - not_null
+
+      - name: name
+        description: "Customer name."
+
+      - name: annual_category
+        description: "Income category."
+
+      - name: total_loans
+        description: "Total number of loans."
+
+      - name: total_loan_amount
+        description: "Total loan amount."
+
+  - name: branch_performance
+    description: "Branch performance metrics."
+
+    columns:
+      - name: branch_id
+        tests:
+          - unique
+          - not_null
+
+      - name: branch_names
+        description: "Branch name."
+
+      - name: loans
+        description: "Number of loans."
+
+      - name: total_loan_amount
+        description: "Total loan amount."
+
+  - name: loan_analysis
+    description: "Loan analysis by type and status."
+
+  - name: payment_analysis
+    description: "Monthly payment analysis."
+
+  - name: transaction_analysis
+    description: "Transaction analysis by type and channel."
+
+  - name: customer_segmentation
+    description: "Customer segmentation based on annual income."
+
+  - name: monthly_business_summary
+    description: "Monthly business summary."
