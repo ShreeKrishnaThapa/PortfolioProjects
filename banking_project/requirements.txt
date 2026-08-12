@@ -1,1 +1,12 @@
+## 📦 Requirements
 
+banking_project/
+│
+├── 🐍 Python
+├── 🗄️ SQL
+├── 📄 requirements.txt
+│   ├── 🐼 pandas
+│   ├── 🔢 numpy
+│   ├── ☁️ google-cloud-bigquery
+│   ├── ⚡ pyarrow
+│   └── 🗄️ db-dtypes
