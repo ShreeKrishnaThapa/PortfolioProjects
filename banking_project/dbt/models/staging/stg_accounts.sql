@@ -4,7 +4,7 @@ WITH accounts AS (
         customer_id, 
         branch_id, 
         LOWER(TRIM(account_type)) AS account_type, 
-        CAST(balance AS FLOAT64) AS balance, -- Fixed type here
+        CAST(balance AS FLOAT64) AS balance, 
         SAFE_CAST(open_date AS DATE) AS open_date, 
         LOWER(TRIM(status)) AS status 
     FROM {{ source('banking_raw','accounts') }} 
