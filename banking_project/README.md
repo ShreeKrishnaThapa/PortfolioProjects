@@ -14,22 +14,24 @@ An end-to-end Banking Analytics Platform built to clean, transform, model, analy
 
 ## 📂 Project Structure
 
+```text
 banking_project/
 │
 ├── 📁 data/
 │   └── 📁 raw/
-|
+│
 ├── 📁 python/
 │   ├── 📁 data_cleaning/
 │   └── 📁 bigquery/
-|
+│
 ├── 📁 models/
 │   ├── 📁 staging/
 │   ├── 📁 marts/
 │   └── 📁 analytics/
 │
 ├── 📄 README.md
-├── 📄 dbt_project.yml
+└── 📄 dbt_project.yml
+```
 
 ---
 
