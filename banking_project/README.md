@@ -18,7 +18,11 @@ banking_project/
 │
 ├── 📁 data/
 │   └── 📁 raw/
-│
+|
+├── 📁 python/
+│   ├── 📁 data_cleaning/
+│   └── 📁 bigquery/
+|
 ├── 📁 models/
 │   ├── 📁 staging/
 │   ├── 📁 marts/
