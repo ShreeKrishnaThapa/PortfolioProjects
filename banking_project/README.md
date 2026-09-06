@@ -123,8 +123,4 @@ Create aggregated datasets for business analysis and reporting.
 
 ---
 
-## 👨‍💻 Author
 
-**shree krishna thapa**
-
-🐍 Data Analytics
