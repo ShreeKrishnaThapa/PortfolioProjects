@@ -83,11 +83,6 @@ The Power BI dashboard is used to look at:
 * Prescription trends
 * Insurance claims
 
-### 🖼️ Power BI Model
-
-![Power BI Data Model](![Uploading power bi models.png…])
-
-
 ## 🎯 What I Worked On
 
 * Cleaned the original datasets in Excel
