@@ -1,0 +1,501 @@
+Doctor_ID,Hospital_ID,Doctor_Name,Doctor_Specialty,Medical_License_Number,NPI_Number,Doctor_Phone,Doctor_Email,Employment_Status
+DOC-00001,HOSP-00003,Kylie Morgan,General medicine,LIC-510120,12345,884.468.2203x57523,doctor@,Active
+DOC-00002,HOSP-00031,Amanda Rodriguez,Pediatrics,,,N/A,doctor@,Inactive
+DOC-00003,HOSP-00081,Holly Myers,General Medicine,LIC-687256,6606021916,,michael14@example.org,active
+DOC-00004,HOSP-00052,Shannon Watts MD,cardiology,LIC-581859,12345,N/A,blake98@example.net,
+DOC-00005,HOSP-00038,Alan Kirby,cardiology,LIC-INVALID,12345,+1-537-656-3198x4993,hannahkidd@example.net,active
+DOC-00006,HOSP-00014,Angie Anderson,Cardiology,,12345,N/A,doctor@,active
+DOC-00007,HOSP-00002,Patrick Decker,General Medicine,LIC-562390,12345,N/A,doctor@,Active
+DOC-00008,HOSP-00044,David Cox,Cardiology,LIC-422400,12345,N/A,,Inactive
+DOC-00009,HOSP-00006,Douglas Jones,Pediatrics,LIC-421165,6839964777,,,On Leave
+DOC-00010,HOSP-00095,Daniel Adams,Dermatology,LIC-INVALID,12345,N/A,,Inactive
+DOC-00011,HOSP-00089,Jessica Sanders,Orthopedics,LIC-603353,5624450863,,joshuaallen@example.net,
+DOC-00012,HOSP-00008,Amy Cook,Oncology,,12345,491.736.1939,william40@example.org,
+DOC-00013,HOSP-00099,Valerie Hernandez,Neurology,LIC-511125,,(871)868-5566x989,,On Leave
+DOC-00014,HOSP-00010,Lisa Rogers,Psychiatry,LIC-INVALID,12345,,doctor@,On Leave
+DOC-00015,HOSP-00079,David Brown,Psychiatry,LIC-307409,8281536834,N/A,doctor@,active
+DOC-00016,HOSP-00078,Paul Charles,cardiology,,6437968087,395-984-4537x44552,jonesyvette@example.com,Active
+DOC-00017,HOSP-00056,Gabrielle Flores,Oncology,LIC-INVALID,,N/A,charles65@example.com,
+DOC-00018,HOSP-00056,Yolanda Burch,Oncology,LIC-INVALID,12345,,anthony31@example.com,Active
+DOC-00019,HOSP-00088,Jacob Williamson,ENT,,12345,(681)557-3232x26017,doctor@,Active
+DOC-00020,HOSP-00035,Randy Washington,General medicine,,,,kathryn65@example.com,Active
+DOC-00021,HOSP-00091,Kathleen Williams,General Medicine,LIC-INVALID,2154147542,7113306351,doctor@,Inactive
+DOC-00022,HOSP-00038,Crystal Brown,General medicine,,9622553158,001-846-298-6234x404,,Inactive
+DOC-00023,HOSP-00024,Andrea Lee,ENT,LIC-955959,1646634266,,nvillarreal@example.net,
+DOC-00024,HOSP-00096,Jimmy Schroeder,Neurology,LIC-INVALID,12345,,drakemichelle@example.com,
+DOC-00025,HOSP-00066,Tammy Burke,Cardiology,,9765735624,N/A,,On Leave
+DOC-00026,HOSP-00003,Wanda Salazar,Psychiatry,LIC-INVALID,,8605789872,nmorrow@example.org,Inactive
+DOC-00027,HOSP-00049,Christopher Hawkins,General Medicine,,2929125481,,,active
+DOC-00028,HOSP-00066,Angela Salazar,ENT,,12345,,doctor@,On Leave
+DOC-00029,HOSP-00057,Rebecca Walsh,Neurology,LIC-676414,12345,+1-814-861-6849x481,doctor@,
+DOC-00030,HOSP-00062,John Duncan,Oncology,LIC-INVALID,12345,,,active
+DOC-00031,HOSP-00047,Douglas Lamb,Psychiatry,,2199704378,,,Active
+DOC-00032,HOSP-00044,Anthony Ford,Radiology,LIC-INVALID,,(785)838-1229x0926,,Active
+DOC-00033,HOSP-00087,Chris Giles,Orthopedics,LIC-INVALID,9926971160,,doctor@,On Leave
+DOC-00034,HOSP-00035,Roberto Weber,Cardiology,LIC-INVALID,,9923613188,,On Leave
+DOC-00035,HOSP-00011,Christopher Weiss,Dermatology,,,8464656110,sgarza@example.com,On Leave
+DOC-00036,HOSP-00051,Brian Haley,General medicine,LIC-INVALID,,238-737-9973x839,,Active
+DOC-00037,HOSP-00041,Kevin Welch,General Medicine,,12345,001-516-633-1748x552,doctor@,
+DOC-00038,HOSP-00002,Gabriel Spencer,General Medicine,LIC-INVALID,12345,225-261-5098,,active
+DOC-00039,HOSP-00010,Andre Moore,Pediatrics,LIC-INVALID,,,doctor@,Active
+DOC-00040,HOSP-00092,Tracey Meadows,Neurology,LIC-INVALID,,N/A,doctor@,active
+DOC-00041,HOSP-00045,Cindy Fisher,Pediatrics,LIC-407638,,524.367.4157x28177,,Inactive
+DOC-00042,HOSP-00084,Brandon Tanner,Psychiatry,,5539703681,N/A,,Active
+DOC-00043,HOSP-00014,Trevor Clayton,Radiology,LIC-INVALID,,N/A,,active
+DOC-00044,HOSP-00006,Carl Huffman,Pediatrics,LIC-INVALID,12345,,,On Leave
+DOC-00045,HOSP-00072,Brett Duran,ENT,,,N/A,,Inactive
+DOC-00046,HOSP-00028,Valerie West,Psychiatry,LIC-INVALID,7941674020,,doctor@,On Leave
+DOC-00047,HOSP-00068,Stacy Brown,Orthopedics,LIC-INVALID,,N/A,,Active
+DOC-00048,HOSP-00043,Gary Maxwell,General Medicine,LIC-970952,12345,001-570-910-2057,christie84@example.net,On Leave
+DOC-00049,HOSP-00094,Melissa White,Pediatrics,LIC-900420,7732223050,804.349.1560x295,ashleyjones@example.org,On Leave
+DOC-00050,HOSP-00023,Janice Lucas,General Medicine,,,8417330353,,
+DOC-00051,HOSP-00034,Justin Jones,General Medicine,LIC-INVALID,12345,N/A,jonathanmorrison@example.org,Active
+DOC-00052,HOSP-00037,Maria Harris,Pediatrics,LIC-INVALID,4621028380,N/A,,Inactive
+DOC-00053,HOSP-00083,Brittany Cervantes DVM,Psychiatry,LIC-INVALID,7708581757,(320)712-0536x3316,vfranklin@example.com,
+DOC-00054,HOSP-00044,Maria Leon,Oncology,,12345,,,
+DOC-00055,HOSP-00080,Stacy Smith,Oncology,LIC-INVALID,1993414329,491-816-9699,doctor@,
+DOC-00056,HOSP-00081,Sheila Smith,ENT,,12345,,,
+DOC-00057,HOSP-00020,Kelly Davis,Radiology,LIC-INVALID,8591167915,,,On Leave
+DOC-00058,HOSP-00017,Destiny Clayton,General Medicine,LIC-347823,,,uschroeder@example.net,Active
+DOC-00059,HOSP-00091,Robert Rodriguez,Orthopedics,LIC-301793,4465104318,N/A,,Active
+DOC-00060,HOSP-00092,David Weber,Pediatric,,8922083960,,,
+DOC-00061,HOSP-00001,Nicole Smith,Neurology,LIC-116189,,N/A,jenkinsstephen@example.com,
+DOC-00062,HOSP-00018,Heather Moore,Radiology,LIC-839916,12345,+1-279-357-3298,nicholelopez@example.org,active
+DOC-00063,HOSP-00079,Nancy Norman,General Medicine,,5290275025,+1-546-992-6807x775,doctor@,Active
+DOC-00064,HOSP-00036,Katie Johnson,Psychiatry,LIC-INVALID,12345,N/A,,active
+DOC-00065,HOSP-00032,Christopher Smith,Radiology,LIC-370686,,001-217-230-7283x7540,teresa29@example.org,Inactive
+DOC-00066,HOSP-00021,Deborah Jones,ENT,,5485225563,273-915-9684,jennifergoodwin@example.net,Inactive
+DOC-00067,HOSP-00005,William Griffin,Psychiatry,LIC-776444,,4564726448,,Active
+DOC-00068,HOSP-00098,Sara Hamilton DDS,General Medicine,LIC-INVALID,12345,N/A,,active
+DOC-00069,HOSP-00018,Heather Washington,General medicine,LIC-INVALID,12345,,doctor@,active
+DOC-00070,HOSP-00021,Jessica Dunn,Radiology,,12345,+1-606-651-8353x999,,active
+DOC-00071,HOSP-00064,Jessica Garcia,Psychiatry,,12345,,doctor@,Inactive
+DOC-00072,HOSP-00078,Michael Medina,Orthopedics,LIC-849450,8793075335,999.215.0445,,Inactive
+DOC-00073,HOSP-00047,Dr. Melissa Brown MD,Dermatology,,,,,
+DOC-00074,HOSP-00077,Richard Garcia,General medicine,LIC-718400,12345,236.886.9759x311,susandyer@example.com,Inactive
+DOC-00075,HOSP-00015,Ryan Walton,Neurology,LIC-144951,12345,N/A,doctor@,Inactive
+DOC-00076,HOSP-00057,Tara Ross,Cardiology,LIC-799199,3618532055,,,
+DOC-00077,HOSP-00025,Jennifer Davis,General Medicine,,,,,active
+DOC-00078,HOSP-00088,Susan Schmidt,Cardiology,LIC-INVALID,12345,,,On Leave
+DOC-00079,HOSP-00033,David Alvarez,Dermatology,,,575.960.4819x235,megan90@example.net,active
+DOC-00080,HOSP-00040,Madeline Green,Orthopedics,LIC-805295,12345,N/A,sydneymyers@example.com,On Leave
+DOC-00081,HOSP-00010,Sherry Kaiser,General medicine,LIC-INVALID,,952.351.7115x70144,,Active
+DOC-00082,HOSP-00042,Tina Alexander,Oncology,LIC-150862,5117684939,N/A,doctor@,On Leave
+DOC-00083,HOSP-00043,Virginia Freeman,Dermatology,LIC-905478,12345,N/A,doctor@,Inactive
+DOC-00084,HOSP-00060,Michael Huang,Neurology,LIC-INVALID,,+1-723-452-8458x72763,doctor@,On Leave
+DOC-00085,HOSP-00028,Michelle Aguilar,Cardiology,LIC-INVALID,,N/A,doctor@,Active
+DOC-00086,HOSP-00094,Kayla Valencia,General Medicine,,,(355)300-4419,doctor@,On Leave
+DOC-00087,HOSP-00046,Robert Powell,Pediatric,LIC-INVALID,,,doctor@,active
+DOC-00088,HOSP-00083,Aaron Guerra,Pediatric,LIC-INVALID,12345,,yleonard@example.org,
+DOC-00089,HOSP-00031,George Stone,Neurology,LIC-522410,,(710)417-2352,rclark@example.org,On Leave
+DOC-00090,HOSP-00062,Mark Villarreal,Psychiatry,,,,patriciapayne@example.org,Inactive
+DOC-00091,HOSP-00052,Karen Medina,cardiology,,2115769669,N/A,johnsonalexis@example.org,active
+DOC-00092,HOSP-00054,Christine Smith,Neurology,LIC-INVALID,,N/A,doctor@,active
+DOC-00093,HOSP-00093,Adam Lopez,General medicine,,12345,,doctor@,Active
+DOC-00094,HOSP-00047,Jason Hernandez,Orthopedics,LIC-200020,12345,N/A,doctor@,
+DOC-00095,HOSP-00076,Sandra Davis,Dermatology,LIC-156991,6647412274,N/A,carmensantiago@example.com,active
+DOC-00096,HOSP-00098,Todd Bailey,Cardiology,LIC-397630,12345,N/A,doctor@,active
+DOC-00097,HOSP-00003,Amanda Berry,Neurology,LIC-313621,5822812049,N/A,bryan83@example.org,On Leave
+DOC-00098,HOSP-00069,Nathan Whitaker,General Medicine,,,,doctor@,On Leave
+DOC-00099,HOSP-00084,Brian Hill,ENT,LIC-408717,4284097726,,doctor@,active
+DOC-00100,HOSP-00083,Mason Morris,Radiology,,12345,,,Active
+DOC-00101,HOSP-00024,Richard Harmon,Radiology,LIC-815212,,N/A,,On Leave
+DOC-00102,HOSP-00080,Deborah Nguyen,Neurology,LIC-INVALID,7893475172,N/A,doctor@,On Leave
+DOC-00103,HOSP-00082,Daniel Watson,Cardiology,LIC-363842,12345,N/A,doctor@,active
+DOC-00104,HOSP-00057,Christopher Lynch,Neurology,LIC-INVALID,,937.754.3391x438,doctor@,On Leave
+DOC-00105,HOSP-00055,Jason Harding,Pediatrics,LIC-INVALID,12345,,doctor@,Active
+DOC-00106,HOSP-00089,Alicia Simmons,Neurology,,5998977856,N/A,doctor@,Inactive
+DOC-00107,HOSP-00082,Christopher King,Cardiology,LIC-318709,12345,001-472-817-8466x0922,doctor@,
+DOC-00108,HOSP-00054,Karen Harris,Cardiology,LIC-INVALID,,,coreyclark@example.org,Active
+DOC-00109,HOSP-00032,Laura Miller,Radiology,LIC-INVALID,,,,Inactive
+DOC-00110,HOSP-00088,Andrea Mcdonald,General medicine,,12345,N/A,sandradavis@example.com,On Leave
+DOC-00111,HOSP-00060,Sandra Pham,Orthopedics,LIC-725520,2344930037,(340)844-9424x48409,qpeters@example.net,On Leave
+DOC-00112,HOSP-00075,Tammy Tucker,cardiology,LIC-INVALID,3663990028,,,active
+DOC-00113,HOSP-00087,Alisha Parker,General Medicine,LIC-INVALID,,N/A,brettclark@example.net,Active
+DOC-00114,HOSP-00012,Laura Odonnell,Oncology,LIC-INVALID,12345,,destiny80@example.org,Active
+DOC-00115,HOSP-00006,William Johnson,Oncology,,,001-523-600-2789x0731,doctor@,
+DOC-00116,HOSP-00034,Jacob Hill,cardiology,,,+1-503-386-0108x374,nadams@example.org,Active
+DOC-00117,HOSP-00061,Stephanie Smith,General medicine,LIC-INVALID,12345,231.858.0032x54736,alanlucero@example.org,
+DOC-00118,HOSP-00060,Anthony Hughes,Radiology,LIC-213825,12345,N/A,doctor@,Active
+DOC-00119,HOSP-00043,Karen Coleman,General medicine,,7900628717,N/A,,On Leave
+DOC-00120,HOSP-00049,Jennifer Garcia,General Medicine,LIC-659325,3454426543,,jeremy74@example.com,active
+DOC-00121,HOSP-00020,Luis Wood,Neurology,,2943614471,,doctor@,Inactive
+DOC-00122,HOSP-00090,Jack Barnes,Dermatology,LIC-INVALID,12345,N/A,doctor@,Active
+DOC-00123,HOSP-00031,William White,Cardiology,,,,gsutton@example.org,Active
+DOC-00124,HOSP-00023,Chad Meyer,General medicine,LIC-829587,12345,N/A,,active
+DOC-00125,HOSP-00043,Ashley Garcia,Cardiology,LIC-INVALID,5908294321,N/A,wsullivan@example.net,Active
+DOC-00126,HOSP-00054,Maria Colon,Orthopedics,LIC-INVALID,,,doctor@,
+DOC-00127,HOSP-00070,Kenneth Nguyen,Cardiology,LIC-760408,2383922239,N/A,joseph41@example.com,
+DOC-00128,HOSP-00078,Tracy Daniel,Cardiology,LIC-583960,12345,,doctor@,active
+DOC-00129,HOSP-00056,David Grant,Orthopedics,LIC-871510,7877638965,(785)335-0692,doctor@,
+DOC-00130,HOSP-00061,Daniel Davis,ENT,,3603739595,N/A,doctor@,Inactive
+DOC-00131,HOSP-00007,Scott Ramirez,Psychiatry,LIC-INVALID,1374777006,935.557.3717,doctor@,Active
+DOC-00132,HOSP-00032,Elaine Taylor,Oncology,LIC-INVALID,12345,N/A,doctor@,active
+DOC-00133,HOSP-00037,Dr. Linda Mcgee,Pediatrics,LIC-853443,7994278518,,sararodriguez@example.net,Inactive
+DOC-00134,HOSP-00071,Wendy Meyer,Psychiatry,LIC-746239,6977962941,N/A,doctor@,
+DOC-00135,HOSP-00043,Jesse Cook,General medicine,LIC-535374,12345,N/A,,active
+DOC-00136,HOSP-00062,William Baker,ENT,LIC-INVALID,12345,N/A,doctor@,On Leave
+DOC-00137,HOSP-00007,Michael Mills,Radiology,LIC-357034,,,omarmeza@example.org,Active
+DOC-00138,HOSP-00056,Caleb Anderson,Oncology,,12345,,doctor@,active
+DOC-00139,HOSP-00074,Michael Hutchinson,Neurology,LIC-INVALID,12345,+1-422-649-1163x265,,On Leave
+DOC-00140,HOSP-00097,Kathy Fox,Orthopedics,LIC-443153,12345,,shelleysloan@example.com,active
+DOC-00141,HOSP-00096,Matthew Terry,Neurology,,8340412816,976-559-9545x960,,Inactive
+DOC-00142,HOSP-00018,Tammy Johnson,ENT,LIC-426541,12345,N/A,doctor@,active
+DOC-00143,HOSP-00059,Jose Mullins,Pediatrics,LIC-INVALID,,N/A,,active
+DOC-00144,HOSP-00086,Carla Koch,cardiology,LIC-387642,2822856131,N/A,hmcmillan@example.com,
+DOC-00145,HOSP-00053,Stephanie Watkins,Pediatric,LIC-660462,,N/A,doctor@,Inactive
+DOC-00146,HOSP-00090,Christine Gates,General Medicine,LIC-272950,2574793098,903.736.9106x90943,doctor@,Inactive
+DOC-00147,HOSP-00071,Joshua Miller,Orthopedics,LIC-784332,,,doctor@,Active
+DOC-00148,HOSP-00016,Nicole Richards,Psychiatry,LIC-721794,,,stephaniecrawford@example.org,Active
+DOC-00149,HOSP-00083,Shannon Johnson,ENT,LIC-818439,,897-248-7220x374,doctor@,
+DOC-00150,HOSP-00032,Carol Gutierrez,Cardiology,LIC-INVALID,2060422328,,,
+DOC-00151,HOSP-00074,Kyle Maldonado,General medicine,LIC-INVALID,9436046290,,doctor@,Active
+DOC-00152,HOSP-00089,Jason Russell,Dermatology,LIC-357617,,N/A,,Active
+DOC-00153,HOSP-00073,Mrs. Nancy Martin MD,Dermatology,,12345,,,On Leave
+DOC-00154,HOSP-00055,Michael Murray,Psychiatry,LIC-541663,12345,+1-320-789-2297x83763,,Inactive
+DOC-00155,HOSP-00095,Linda Torres,Orthopedics,LIC-INVALID,12345,,doctor@,active
+DOC-00156,HOSP-00030,Ashlee Cline,Neurology,,1685181323,,,Inactive
+DOC-00157,HOSP-00046,Jill Burke,Pediatric,LIC-INVALID,9726481418,N/A,mitchellmorales@example.org,active
+DOC-00158,HOSP-00069,Ashley Smith,Oncology,,,N/A,tammy92@example.net,Active
+DOC-00159,HOSP-00003,Kyle Martin,General Medicine,LIC-INVALID,12345,,doctor@,Inactive
+DOC-00160,HOSP-00085,Juan Christensen,General medicine,LIC-560450,,,blacksusan@example.org,Active
+DOC-00161,HOSP-00094,Dennis Foster,Pediatric,LIC-INVALID,,(370)727-1735,,Active
+DOC-00162,HOSP-00071,Albert Maddox,Radiology,LIC-162624,12345,N/A,philipalvarez@example.org,active
+DOC-00163,HOSP-00036,Alyssa Dominguez,ENT,LIC-796351,,(832)527-0409,ebishop@example.net,On Leave
+DOC-00164,HOSP-00071,Roy Edwards,Psychiatry,LIC-INVALID,12345,N/A,lreid@example.com,Active
+DOC-00165,HOSP-00001,Jeffrey Miller,cardiology,LIC-INVALID,12345,+1-612-340-2967x9717,,On Leave
+DOC-00166,HOSP-00072,Ashley James,Psychiatry,,2466294681,N/A,doctor@,Inactive
+DOC-00167,HOSP-00024,Ariana Byrd,Neurology,,2588953157,,,
+DOC-00168,HOSP-00037,Amy Walton,General Medicine,,12345,,doctor@,Inactive
+DOC-00169,HOSP-00039,John Holt,Neurology,,12345,N/A,,
+DOC-00170,HOSP-00060,Diane Garcia,Dermatology,LIC-879524,12345,3289097847,,Active
+DOC-00171,HOSP-00040,Elizabeth Gillespie,Radiology,LIC-436724,12345,605-859-7514x70138,doctor@,active
+DOC-00172,HOSP-00049,John Bray,General medicine,LIC-INVALID,2204239556,,,active
+DOC-00173,HOSP-00048,Mr. Jesus Wagner,Dermatology,,,001-876-391-8751,,active
+DOC-00174,HOSP-00006,Dr. Brandy Arnold,cardiology,LIC-878331,3642970557,N/A,kevinmarsh@example.net,active
+DOC-00175,HOSP-00011,Ronald Gallagher,Psychiatry,LIC-INVALID,5377356765,,doctor@,Inactive
+DOC-00176,HOSP-00047,Maria Wood,Pediatric,LIC-INVALID,12345,N/A,amywest@example.com,Inactive
+DOC-00177,HOSP-00047,Brooke Lopez,cardiology,LIC-INVALID,12345,(746)982-3874x515,doctor@,Inactive
+DOC-00178,HOSP-00038,Michael Summers,Orthopedics,LIC-681713,,,,active
+DOC-00179,HOSP-00048,Matthew Henry,ENT,LIC-972272,8394838045,,doctor@,
+DOC-00180,HOSP-00094,Dean Huynh,Dermatology,,6166414846,+1-932-385-2955x0141,lindafrye@example.net,On Leave
+DOC-00181,HOSP-00093,Paul Lopez,Psychiatry,LIC-313385,12345,,,active
+DOC-00182,HOSP-00054,Derek Guzman,Oncology,LIC-203538,4190621120,(375)863-6487,brittanybell@example.net,On Leave
+DOC-00183,HOSP-00073,Angel Sanchez,General medicine,LIC-490315,,+1-464-888-0887,,On Leave
+DOC-00184,HOSP-00009,Briana Castillo,Pediatrics,LIC-485413,12345,N/A,,Active
+DOC-00185,HOSP-00083,Joshua Brown,Radiology,LIC-INVALID,,N/A,,Inactive
+DOC-00186,HOSP-00066,Mark Butler,General Medicine,LIC-502516,3361510273,,,Inactive
+DOC-00187,HOSP-00052,Courtney Jones,General medicine,,12345,N/A,freemanrandy@example.com,On Leave
+DOC-00188,HOSP-00032,Mason Salinas,Dermatology,LIC-380885,12345,,codyevans@example.com,
+DOC-00189,HOSP-00081,Steven Smith,cardiology,LIC-411152,12345,,,Inactive
+DOC-00190,HOSP-00042,Jennifer Cox,Cardiology,LIC-INVALID,,,,Inactive
+DOC-00191,HOSP-00024,Stacy Flores,Orthopedics,,,444.978.0362,doctor@,On Leave
+DOC-00192,HOSP-00068,Brandon Martin,Neurology,LIC-INVALID,,211.965.2967x45576,doctor@,Inactive
+DOC-00193,HOSP-00026,Christopher Ford,ENT,LIC-INVALID,1527676936,N/A,doctor@,Active
+DOC-00194,HOSP-00082,Howard Nielsen,Pediatrics,LIC-INVALID,12345,,doctor@,
+DOC-00195,HOSP-00053,Charles Richard,Neurology,LIC-INVALID,5330889195,+1-978-790-3716x0468,,Inactive
+DOC-00196,HOSP-00090,Edward Anderson,Orthopedics,,,,,Active
+DOC-00197,HOSP-00047,Eric Lester,Orthopedics,LIC-459256,,+1-968-242-0068x12198,doctor@,Active
+DOC-00198,HOSP-00100,William Dean,Orthopedics,,6168880000,351-629-9784,wheelersamantha@example.net,Inactive
+DOC-00199,HOSP-00011,Marisa Chavez,General Medicine,,12345,,,Active
+DOC-00200,HOSP-00046,Sarah Perry,General Medicine,LIC-INVALID,6287911758,001-570-252-5466x7097,doctor@,Inactive
+DOC-00201,HOSP-00027,Holly King,Orthopedics,,6264644151,211-244-5652x0636,walkerjoseph@example.com,
+DOC-00202,HOSP-00071,Kevin Huynh DDS,Oncology,LIC-INVALID,4461547650,,munozanna@example.com,Active
+DOC-00203,HOSP-00069,Susan Hernandez,ENT,LIC-624911,,,martinangel@example.org,
+DOC-00204,HOSP-00098,Daniel Chandler,Radiology,LIC-238922,,380-682-0464,,Inactive
+DOC-00205,HOSP-00048,Kim Jenkins,Dermatology,LIC-560775,,N/A,doctor@,
+DOC-00206,HOSP-00004,Patrick Guzman,Orthopedics,LIC-INVALID,12345,,,
+DOC-00207,HOSP-00069,Felicia Cunningham,General medicine,LIC-INVALID,,9238609903,,Active
+DOC-00208,HOSP-00070,Darlene Johnson,Dermatology,LIC-INVALID,6014711019,001-911-543-9994x44660,doctor@,
+DOC-00209,HOSP-00014,Jake Garza,ENT,,,,doctor@,Active
+DOC-00210,HOSP-00001,Melissa Sherman,Cardiology,LIC-INVALID,12345,001-481-261-2817x356,,Active
+DOC-00211,HOSP-00017,Brittany Leblanc,Pediatrics,LIC-770579,,,doctor@,On Leave
+DOC-00212,HOSP-00060,Christina Leon,Orthopedics,,12345,N/A,,active
+DOC-00213,HOSP-00085,Annette Bennett,Dermatology,LIC-803920,,001-347-230-0440,,active
+DOC-00214,HOSP-00063,Judy Hunter,Oncology,LIC-683154,12345,+1-465-758-2163x31695,,On Leave
+DOC-00215,HOSP-00048,Kenneth Powers,General medicine,,9493059160,,christie67@example.net,Active
+DOC-00216,HOSP-00084,Richard Coleman,cardiology,LIC-276423,8265061556,,doctor@,Active
+DOC-00217,HOSP-00048,Angel Barker,General Medicine,,,N/A,,
+DOC-00218,HOSP-00032,Kevin Douglas,Pediatric,LIC-INVALID,,001-495-205-3507,,On Leave
+DOC-00219,HOSP-00064,Cynthia Wells,Pediatrics,LIC-587861,9745958134,N/A,doctor@,
+DOC-00220,HOSP-00092,April Armstrong,cardiology,LIC-INVALID,1884417047,N/A,doctor@,active
+DOC-00221,HOSP-00030,Katherine Reeves MD,Cardiology,LIC-445001,9496767844,N/A,,Active
+DOC-00222,HOSP-00083,James Moore,ENT,LIC-INVALID,12345,,,Inactive
+DOC-00223,HOSP-00075,Mary Coleman,Cardiology,LIC-724918,4772721241,N/A,shanesmith@example.org,
+DOC-00224,HOSP-00085,Kendra White,General medicine,LIC-912805,,,hbradford@example.net,Active
+DOC-00225,HOSP-00071,Kathryn Yang,Pediatric,,12345,N/A,,
+DOC-00226,HOSP-00050,Colleen Brown,ENT,,4763670834,+1-393-206-5940x05282,doctor@,Inactive
+DOC-00227,HOSP-00067,Janet Diaz,cardiology,LIC-732129,,N/A,,Active
+DOC-00228,HOSP-00078,Patricia Lopez,Pediatrics,LIC-815460,,,,active
+DOC-00229,HOSP-00096,Darrell Calderon,Neurology,,2617580503,N/A,barneskevin@example.org,
+DOC-00230,HOSP-00092,Tammy Martin,Dermatology,LIC-INVALID,9470771818,997-729-8177x523,doctor@,Inactive
+DOC-00231,HOSP-00036,Kelsey Stephenson,ENT,,6939398599,N/A,thompsonsteven@example.com,
+DOC-00232,HOSP-00001,Taylor Levine,Orthopedics,LIC-INVALID,,,,Inactive
+DOC-00233,HOSP-00016,Connie Gordon,General Medicine,,12345,N/A,amandamiller@example.net,Inactive
+DOC-00234,HOSP-00043,Sierra Oneal,Neurology,LIC-INVALID,,,doctor@,
+DOC-00235,HOSP-00012,Tina James,Radiology,,12345,N/A,vincent16@example.org,
+DOC-00236,HOSP-00049,Scott Aguirre,Oncology,,12345,,doctor@,Inactive
+DOC-00237,HOSP-00002,Douglas Nelson,General Medicine,LIC-INVALID,,N/A,doctor@,active
+DOC-00238,HOSP-00061,David Acevedo,General medicine,,4712111856,,,
+DOC-00239,HOSP-00066,Casey Francis,Orthopedics,LIC-769538,,+1-423-207-4698,,
+DOC-00240,HOSP-00036,Jonathan Chaney,Psychiatry,LIC-INVALID,,N/A,doctor@,active
+DOC-00241,HOSP-00023,Christopher Shields,Dermatology,,12345,(923)651-1998,mccoyleslie@example.com,active
+DOC-00242,HOSP-00078,Kevin Patel,ENT,LIC-INVALID,,,melissasullivan@example.org,On Leave
+DOC-00243,HOSP-00056,Jose Floyd,cardiology,LIC-852591,,+1-256-488-6317,,Inactive
+DOC-00244,HOSP-00036,Troy Bowen,Neurology,LIC-INVALID,12345,N/A,zacharyturner@example.net,active
+DOC-00245,HOSP-00046,David Stephens,Oncology,LIC-635301,12345,,yosborne@example.com,
+DOC-00246,HOSP-00085,Christopher Hebert,Orthopedics,,,+1-908-765-6099x250,ahenson@example.net,Active
+DOC-00247,HOSP-00048,David Dominguez,Cardiology,,8344763236,982.250.9894,,
+DOC-00248,HOSP-00078,Christine Mcneil,ENT,,,,,On Leave
+DOC-00249,HOSP-00029,Brian Mcgrath,Oncology,LIC-INVALID,3846451716,713-899-0690,doctor@,
+DOC-00250,HOSP-00063,Ryan Hawkins,Pediatric,,12345,,doctor@,On Leave
+DOC-00251,HOSP-00017,Brian Melendez,ENT,LIC-INVALID,12345,746-895-1442x488,doctor@,active
+DOC-00252,HOSP-00047,Alec West,cardiology,LIC-INVALID,12345,N/A,doctor@,
+DOC-00253,HOSP-00010,Rebecca Campbell,Oncology,,6686941727,,,
+DOC-00254,HOSP-00017,Martha Roth,ENT,,6054997244,,mary78@example.org,
+DOC-00255,HOSP-00011,Mark Jones,Cardiology,LIC-518406,,+1-914-532-9236x504,,Inactive
+DOC-00256,HOSP-00057,Jessica Stephens,Oncology,,,870-638-3743x71683,,On Leave
+DOC-00257,HOSP-00047,Amy Hart,Oncology,LIC-616092,1321950040,001-784-746-5939x116,doctor@,Inactive
+DOC-00258,HOSP-00039,Katherine Hoffman,Cardiology,LIC-INVALID,,N/A,doctor@,
+DOC-00259,HOSP-00065,Karen Molina MD,Radiology,,,001-481-325-8899x389,doctor@,Active
+DOC-00260,HOSP-00064,Pamela Estrada,Neurology,LIC-916647,,,davisdavid@example.com,Active
+DOC-00261,HOSP-00032,Amy Nelson,ENT,,12345,N/A,wilsonlatoya@example.com,Active
+DOC-00262,HOSP-00047,William Santana,General Medicine,LIC-INVALID,12345,N/A,doctor@,
+DOC-00263,HOSP-00048,Angela Fleming,Dermatology,,12345,+1-795-738-9687x6547,doctor@,Active
+DOC-00264,HOSP-00040,Robert Solis,Cardiology,,1282285843,,twalters@example.com,On Leave
+DOC-00265,HOSP-00081,James Weaver,General medicine,LIC-INVALID,12345,N/A,doctor@,active
+DOC-00266,HOSP-00037,Dustin Gomez,General Medicine,LIC-136614,,,doctor@,Inactive
+DOC-00267,HOSP-00024,Anita Walker,Orthopedics,LIC-170326,12345,,doctor@,Inactive
+DOC-00268,HOSP-00034,Darren Morrow,General medicine,LIC-939344,4804584735,634-363-6687x007,nicholaslee@example.net,
+DOC-00269,HOSP-00078,Malik Howard,General Medicine,LIC-384944,5732684527,,,Inactive
+DOC-00270,HOSP-00020,Danielle Smith,Orthopedics,LIC-INVALID,,517-910-6530x8542,,Active
+DOC-00271,HOSP-00048,Morgan Cole,Dermatology,,12345,N/A,tgordon@example.org,On Leave
+DOC-00272,HOSP-00057,Jessica Taylor,ENT,LIC-INVALID,,N/A,doctor@,Inactive
+DOC-00273,HOSP-00021,Jean Watkins,General medicine,LIC-306316,12345,,,
+DOC-00274,HOSP-00049,Elijah Perez,Pediatric,LIC-234848,12345,270-567-4287x47640,doctor@,Active
+DOC-00275,HOSP-00094,Ryan Singh,Cardiology,LIC-679077,12345,560-682-0048x00406,lwalters@example.com,Active
+DOC-00276,HOSP-00040,Jeremy Oliver,Dermatology,,3870432814,N/A,,On Leave
+DOC-00277,HOSP-00068,Michele Gutierrez,Neurology,,,N/A,corey90@example.org,Active
+DOC-00278,HOSP-00093,Rebecca Wheeler,General medicine,LIC-266757,,N/A,,On Leave
+DOC-00279,HOSP-00056,Mary Smith,Cardiology,LIC-548222,5464951869,408-668-4231x19518,doctor@,Inactive
+DOC-00280,HOSP-00042,Stephen Taylor,Pediatrics,LIC-INVALID,,,doctor@,
+DOC-00281,HOSP-00018,Candace Watson,Oncology,,12345,,,active
+DOC-00282,HOSP-00076,Jesse Rogers,Neurology,,,N/A,jenniferkemp@example.net,Active
+DOC-00283,HOSP-00080,Erin Jones,Radiology,LIC-973861,2759873075,,,Inactive
+DOC-00284,HOSP-00098,Denise Hoffman,ENT,LIC-276053,6382216333,723.569.9899x2512,doctor@,On Leave
+DOC-00285,HOSP-00033,Charlene Fowler,Pediatric,LIC-INVALID,4072684599,N/A,,Active
+DOC-00286,HOSP-00022,Rachel Murphy,Pediatrics,LIC-INVALID,6832760959,+1-671-331-9466x419,doctor@,Active
+DOC-00287,HOSP-00010,Craig West,ENT,LIC-658855,,7676722278,doctor@,Inactive
+DOC-00288,HOSP-00011,Elijah Terry,Cardiology,,12345,,,
+DOC-00289,HOSP-00034,Mark Barber,Orthopedics,LIC-INVALID,1575954643,,kyle41@example.net,
+DOC-00290,HOSP-00086,Molly Garza,Pediatric,LIC-395977,12345,+1-793-896-4009x79557,breed@example.com,On Leave
+DOC-00291,HOSP-00005,Nicole Dean,ENT,LIC-INVALID,3711969860,N/A,,active
+DOC-00292,HOSP-00012,Matthew Vasquez,Cardiology,LIC-885343,12345,,,On Leave
+DOC-00293,HOSP-00077,Brandon Garcia,Psychiatry,LIC-414870,12345,,clarkkatherine@example.org,active
+DOC-00294,HOSP-00023,Jennifer Gilbert MD,Oncology,LIC-188757,12345,N/A,mauriceclark@example.net,
+DOC-00295,HOSP-00023,Michael Morales,General medicine,LIC-948609,6650581822,,,Inactive
+DOC-00296,HOSP-00072,Elizabeth Haynes,Oncology,LIC-INVALID,7761756368,,egonzales@example.com,Inactive
+DOC-00297,HOSP-00073,Michael Rivas,Pediatric,LIC-235492,,,tonya13@example.net,Inactive
+DOC-00298,HOSP-00041,Justin Newman,Radiology,LIC-INVALID,1568793392,,,active
+DOC-00299,HOSP-00044,Nathaniel Strickland,Pediatrics,,12345,001-563-258-4923x44078,krauseandrew@example.com,
+DOC-00300,HOSP-00012,Ashley Hardy,Pediatric,,,,doctor@,Inactive
+DOC-00301,HOSP-00013,Ronald Freeman,cardiology,LIC-471822,,(962)584-5611x533,samuel19@example.org,Active
+DOC-00302,HOSP-00013,Ryan Elliott,ENT,LIC-472345,6040770096,,,active
+DOC-00303,HOSP-00090,Thomas Haas Jr.,Pediatric,LIC-INVALID,,,leetimothy@example.net,Active
+DOC-00304,HOSP-00069,Jeffrey Hill,ENT,LIC-413568,,,,active
+DOC-00305,HOSP-00043,Karen Lynch,Pediatrics,LIC-INVALID,,001-827-962-5856x18267,doctor@,Inactive
+DOC-00306,HOSP-00073,Janice Cruz,Orthopedics,LIC-INVALID,9248755051,,debraturner@example.net,Active
+DOC-00307,HOSP-00100,Daniel Petersen,ENT,,12345,,millerchristina@example.com,Inactive
+DOC-00308,HOSP-00006,Jessica Smith,Psychiatry,LIC-INVALID,6895223464,(585)400-7532,amy68@example.org,On Leave
+DOC-00309,HOSP-00096,Thomas Wiley,Psychiatry,,9871271906,001-802-924-9881x224,,On Leave
+DOC-00310,HOSP-00051,Phillip Taylor,Orthopedics,LIC-INVALID,,N/A,julie11@example.org,Inactive
+DOC-00311,HOSP-00080,Elizabeth Adams,Neurology,,12345,N/A,,On Leave
+DOC-00312,HOSP-00034,Jason Nelson,Pediatric,LIC-249413,12345,N/A,doctor@,Active
+DOC-00313,HOSP-00033,Derek Mayo,Cardiology,LIC-312292,12345,,farrellkevin@example.com,Inactive
+DOC-00314,HOSP-00035,Elizabeth Bradford,Radiology,LIC-314438,12345,(586)730-3161x1890,doctor@,active
+DOC-00315,HOSP-00046,Veronica Rodriguez,General Medicine,LIC-INVALID,2410658876,916-582-5257,kgarcia@example.org,On Leave
+DOC-00316,HOSP-00048,Amanda Cook,Neurology,,,,doctor@,active
+DOC-00317,HOSP-00027,Ryan Reyes,Neurology,LIC-INVALID,6033571413,,nelsonchris@example.net,
+DOC-00318,HOSP-00092,James Fields,Pediatrics,LIC-426601,12345,(379)783-1614x90054,,active
+DOC-00319,HOSP-00054,David Montgomery,Neurology,LIC-INVALID,,N/A,rodgersmonique@example.net,active
+DOC-00320,HOSP-00088,Katherine Farley,General Medicine,LIC-INVALID,12345,001-967-490-2845x10130,doctor@,
+DOC-00321,HOSP-00060,Courtney Petty,Oncology,LIC-596390,12345,001-352-893-3128,yolandawells@example.net,Inactive
+DOC-00322,HOSP-00040,Miguel Davis,Pediatric,LIC-750377,7532258120,N/A,doctor@,active
+DOC-00323,HOSP-00079,Mackenzie Jimenez,Pediatrics,,12345,,alexandra15@example.net,Inactive
+DOC-00324,HOSP-00068,Peter Webb,Orthopedics,LIC-INVALID,8047306167,,,
+DOC-00325,HOSP-00055,April Wilkerson,Dermatology,,9291845012,5128402848,amanda59@example.com,
+DOC-00326,HOSP-00028,Stephen Haynes,Oncology,,12345,,doctor@,Active
+DOC-00327,HOSP-00051,Douglas Lewis,Oncology,,,(652)541-4219x609,doctor@,Active
+DOC-00328,HOSP-00017,Miss Eileen Mccall,Radiology,LIC-990314,12345,N/A,doctor@,
+DOC-00329,HOSP-00018,Michael Taylor,General Medicine,LIC-INVALID,,N/A,sullivanashley@example.net,On Leave
+DOC-00330,HOSP-00025,Andrew Mendez,Pediatrics,,12345,N/A,doctor@,Active
+DOC-00331,HOSP-00042,Kathy Jefferson,General Medicine,,12345,N/A,millerchristopher@example.com,On Leave
+DOC-00332,HOSP-00099,Katelyn Jones,Psychiatry,,12345,,franciscovega@example.net,active
+DOC-00333,HOSP-00045,Katrina Berry,General Medicine,LIC-INVALID,,421.445.0865x20779,,
+DOC-00334,HOSP-00099,Holly Vazquez,General Medicine,LIC-590738,,N/A,,
+DOC-00335,HOSP-00033,Austin Terry,Pediatrics,LIC-INVALID,12345,N/A,doctor@,On Leave
+DOC-00336,HOSP-00029,Caitlyn Thompson,General medicine,LIC-407279,12345,N/A,doctor@,Inactive
+DOC-00337,HOSP-00052,Jeffrey Simpson,Pediatrics,LIC-881684,,+1-568-331-6604x13155,,
+DOC-00338,HOSP-00018,Sharon Prince,Pediatrics,LIC-350514,,939-711-3187x8380,cmccarthy@example.net,Active
+DOC-00339,HOSP-00014,Russell Lynch DVM,General Medicine,,,+1-730-823-7323x24639,doctor@,
+DOC-00340,HOSP-00009,Rebecca Smith,Psychiatry,,,999.383.5340x027,,
+DOC-00341,HOSP-00022,David Griffin,Pediatric,LIC-591663,12345,814.618.1019x9481,,Active
+DOC-00342,HOSP-00088,Samuel Scott,Dermatology,LIC-INVALID,12345,,,Inactive
+DOC-00343,HOSP-00094,Mr. Juan Richardson,ENT,,12345,N/A,,On Leave
+DOC-00344,HOSP-00018,Jeffery Gonzalez III,Cardiology,LIC-INVALID,12345,,doctor@,
+DOC-00345,HOSP-00094,Brianna Acosta,General Medicine,,2958304559,+1-286-614-5862x4534,lisacoffey@example.org,Active
+DOC-00346,HOSP-00064,Jeremy Melendez,Psychiatry,LIC-379505,,322.795.0459,,active
+DOC-00347,HOSP-00044,Leon Jensen,Oncology,LIC-INVALID,,,doctor@,Active
+DOC-00348,HOSP-00090,Lori Edwards,Dermatology,LIC-336534,6287784525,,twashington@example.org,Active
+DOC-00349,HOSP-00008,John Hinton,Pediatrics,LIC-INVALID,,N/A,,On Leave
+DOC-00350,HOSP-00062,Jody Rogers,Psychiatry,,1534711377,N/A,sarahwashington@example.net,Active
+DOC-00351,HOSP-00066,Zachary Wilson,Dermatology,LIC-536123,1027267402,001-336-457-6071,doctor@,Inactive
+DOC-00352,HOSP-00024,Crystal Jones,Pediatric,LIC-336012,,N/A,doctor@,
+DOC-00353,HOSP-00088,Allen Lopez,Oncology,LIC-881614,,N/A,yesenia35@example.org,active
+DOC-00354,HOSP-00048,Sandra Richards,cardiology,,12345,686.807.4973x4405,doctor@,
+DOC-00355,HOSP-00019,Erica Anderson,Pediatrics,,,N/A,katelyn64@example.com,Inactive
+DOC-00356,HOSP-00025,Sherry Garcia,Dermatology,LIC-563308,,N/A,,Inactive
+DOC-00357,HOSP-00008,Lori Glover,General Medicine,LIC-742794,,,matthewsronald@example.com,Inactive
+DOC-00358,HOSP-00091,Meagan Elliott,Orthopedics,,,+1-792-521-1522x914,doctor@,
+DOC-00359,HOSP-00099,Katelyn Mills,Dermatology,,,,,On Leave
+DOC-00360,HOSP-00049,Eric Martin,Psychiatry,,1724071682,001-759-490-8375x768,doctor@,active
+DOC-00361,HOSP-00075,Travis Maldonado,Neurology,LIC-440071,3181997167,(528)637-1530x8875,linda55@example.net,Inactive
+DOC-00362,HOSP-00009,Leslie Ewing,cardiology,,3292191282,001-509-500-2538x26786,aaronjackson@example.com,On Leave
+DOC-00363,HOSP-00031,Alexandra Lopez,Neurology,LIC-821714,12345,N/A,abigailnunez@example.net,active
+DOC-00364,HOSP-00055,Megan Smith,Orthopedics,,12345,,shawndean@example.com,active
+DOC-00365,HOSP-00034,Nicholas Rosales,Oncology,LIC-282731,,001-255-520-5553x25064,doctor@,Inactive
+DOC-00366,HOSP-00043,Ashley Buchanan,Oncology,LIC-INVALID,8382552426,N/A,doctor@,Inactive
+DOC-00367,HOSP-00018,Amy Rodriguez,Cardiology,LIC-INVALID,2693143472,,garcialori@example.com,Active
+DOC-00368,HOSP-00013,Jodi Rodriguez,Dermatology,LIC-INVALID,,,doctor@,active
+DOC-00369,HOSP-00022,Christopher Schmidt,Orthopedics,LIC-INVALID,7363454664,(259)291-0160,wadepaul@example.net,Active
+DOC-00370,HOSP-00018,Benjamin Lewis,cardiology,,12345,,susansims@example.org,Inactive
+DOC-00371,HOSP-00032,Christine Cisneros,General Medicine,LIC-INVALID,,371.384.5982,,
+DOC-00372,HOSP-00048,Danielle Garrett,General Medicine,,,(754)513-6576,,On Leave
+DOC-00373,HOSP-00062,Robert Carroll,General Medicine,LIC-247498,12345,N/A,doctor@,
+DOC-00374,HOSP-00004,Cassidy Hart,cardiology,LIC-INVALID,6648667800,(619)520-9441x3045,mfrost@example.net,Inactive
+DOC-00375,HOSP-00027,Thomas Stone,Psychiatry,LIC-INVALID,,484-671-7682x1455,doctor@,On Leave
+DOC-00376,HOSP-00050,John Cruz,Dermatology,,3222150434,+1-560-760-1802,doctor@,Inactive
+DOC-00377,HOSP-00082,Elizabeth Hernandez,Oncology,LIC-319371,12345,N/A,,
+DOC-00378,HOSP-00098,Gregory Rodriguez,Oncology,,7350759196,(312)267-1008,doctor@,On Leave
+DOC-00379,HOSP-00071,Carol Hall,Oncology,LIC-267418,12345,468.308.9839x220,sbarber@example.com,Active
+DOC-00380,HOSP-00036,Anthony Hardy,Pediatric,LIC-855412,12345,N/A,,Inactive
+DOC-00381,HOSP-00072,Donald White,ENT,LIC-126462,7640730152,596.980.7649,doctor@,On Leave
+DOC-00382,HOSP-00093,Barry Nelson,Radiology,LIC-410167,,N/A,,Inactive
+DOC-00383,HOSP-00020,Kimberly Williams,Pediatric,,12345,(931)265-2329x18394,,
+DOC-00384,HOSP-00020,Albert Suarez,General medicine,LIC-INVALID,,(718)334-4103,,
+DOC-00385,HOSP-00087,Jeffrey Sanchez,Orthopedics,LIC-794280,,,ifrey@example.net,On Leave
+DOC-00386,HOSP-00008,Kevin Johnson,ENT,LIC-INVALID,12345,3167014728,zrasmussen@example.net,active
+DOC-00387,HOSP-00099,Heidi Garcia,Orthopedics,LIC-589773,,N/A,,
+DOC-00388,HOSP-00001,Daniel Gallagher,Dermatology,LIC-INVALID,8165441014,N/A,stevenking@example.net,
+DOC-00389,HOSP-00013,Daisy Mercado,Radiology,LIC-344697,12345,N/A,doctor@,Active
+DOC-00390,HOSP-00030,Teresa Miller,General medicine,LIC-INVALID,9253906216,N/A,doctor@,active
+DOC-00391,HOSP-00015,Morgan Wright,General Medicine,LIC-869978,12345,N/A,doctor@,On Leave
+DOC-00392,HOSP-00034,Bryan Baker,Psychiatry,LIC-888376,7628098398,N/A,stewartbrian@example.org,
+DOC-00393,HOSP-00094,Jeffrey Horton,ENT,,8835768649,,,Inactive
+DOC-00394,HOSP-00051,Robert Castillo,Oncology,LIC-INVALID,,N/A,doctor@,
+DOC-00395,HOSP-00042,Vanessa Bates,General medicine,LIC-INVALID,12345,,doctor@,Inactive
+DOC-00396,HOSP-00099,Holly Strong,Oncology,LIC-416762,2217530333,N/A,,Active
+DOC-00397,HOSP-00032,Jonathan Green,Cardiology,,12345,,vmeza@example.net,Active
+DOC-00398,HOSP-00059,Nathan Wheeler,Neurology,LIC-INVALID,,(666)826-6097,francisco08@example.org,On Leave
+DOC-00399,HOSP-00046,Deborah Reyes,General Medicine,LIC-332884,12345,001-784-497-8040x8383,sandra46@example.net,
+DOC-00400,HOSP-00075,Mrs. Donna Patton,Orthopedics,LIC-INVALID,,943-300-4523x16462,,
+DOC-00401,HOSP-00017,Diana Mccarthy,Orthopedics,LIC-447283,,N/A,wferguson@example.net,On Leave
+DOC-00402,HOSP-00013,Theresa Davis,General medicine,,8741902099,,doctor@,active
+DOC-00403,HOSP-00063,Oscar Patel,Orthopedics,LIC-469218,12345,N/A,carrolljose@example.net,On Leave
+DOC-00404,HOSP-00088,Christian Jordan,General medicine,,12345,N/A,arthurlogan@example.net,
+DOC-00405,HOSP-00044,Samuel Mitchell PhD,Neurology,,12345,,eduardosweeney@example.org,active
+DOC-00406,HOSP-00059,Penny Farrell,Neurology,LIC-INVALID,,+1-826-383-9300x66711,,Inactive
+DOC-00407,HOSP-00049,Lisa Adams,Dermatology,,12345,675.801.3814,,active
+DOC-00408,HOSP-00044,Kristin Donaldson,Oncology,,1702696253,N/A,james85@example.com,Active
+DOC-00409,HOSP-00042,Susan English,Cardiology,LIC-202443,12345,4318484860,asmall@example.net,Active
+DOC-00410,HOSP-00083,Yvonne Ortiz,Orthopedics,LIC-INVALID,12345,,,
+DOC-00411,HOSP-00037,Laura Mooney,Psychiatry,LIC-INVALID,12345,363.358.6654,ronaldjohnson@example.net,
+DOC-00412,HOSP-00089,Lynn Roberts,Neurology,,12345,N/A,doctor@,
+DOC-00413,HOSP-00018,Dominique Harmon,Psychiatry,LIC-INVALID,12345,,,active
+DOC-00414,HOSP-00018,Mr. Kevin Evans,Cardiology,,4350434226,903.821.2074x5896,,On Leave
+DOC-00415,HOSP-00055,Ashley Evans,Pediatrics,,12345,N/A,,On Leave
+DOC-00416,HOSP-00039,Michelle Ingram,Dermatology,,,,,Inactive
+DOC-00417,HOSP-00089,Kyle Ramos,Dermatology,,12345,,,Active
+DOC-00418,HOSP-00083,Natalie Thompson,Pediatrics,,12345,N/A,,Active
+DOC-00419,HOSP-00013,Alisha Aguirre,Orthopedics,LIC-INVALID,,(708)349-8905x34366,todd87@example.com,Active
+DOC-00420,HOSP-00077,Catherine Brock,Cardiology,LIC-INVALID,7014263872,,doctor@,
+DOC-00421,HOSP-00007,Troy Moreno,Pediatric,LIC-278827,12345,,,On Leave
+DOC-00422,HOSP-00043,Edward Howard,Pediatric,LIC-994062,,367-885-9630x040,,On Leave
+DOC-00423,HOSP-00032,Victoria Kelley,Orthopedics,LIC-900709,9319351470,434-340-9752,doctor@,On Leave
+DOC-00424,HOSP-00012,Derrick Orr,General medicine,,12345,001-299-897-4174,shannonmccarthy@example.com,
+DOC-00425,HOSP-00049,Michael Young,cardiology,LIC-INVALID,5184691867,N/A,,Active
+DOC-00426,HOSP-00054,Karen Brown,Neurology,,,562.870.5577x585,doctor@,
+DOC-00427,HOSP-00092,Jeffrey English,General medicine,LIC-170674,5771382240,N/A,,
+DOC-00428,HOSP-00045,Micheal Daniels,Pediatrics,,,N/A,cscott@example.com,
+DOC-00429,HOSP-00049,Andrea Villanueva,Orthopedics,LIC-484115,12345,,,Inactive
+DOC-00430,HOSP-00009,Dr. Heather Boyd,Radiology,LIC-INVALID,12345,,doctor@,Inactive
+DOC-00431,HOSP-00082,Logan Hall,Orthopedics,LIC-878505,,001-520-316-1421x923,doctor@,
+DOC-00432,HOSP-00055,Jonathan Robinson,Cardiology,LIC-695589,12345,N/A,doctor@,Inactive
+DOC-00433,HOSP-00038,Paul Weber,Psychiatry,LIC-INVALID,,N/A,,Active
+DOC-00434,HOSP-00017,Christopher Callahan,Psychiatry,LIC-338156,4836507484,N/A,,active
+DOC-00435,HOSP-00069,Michelle Cohen,Neurology,LIC-INVALID,8647299694,N/A,doctor@,Inactive
+DOC-00436,HOSP-00081,Edward Watson,Oncology,,,,,
+DOC-00437,HOSP-00026,Elizabeth Anderson,Radiology,LIC-820214,9520203355,+1-658-686-1764x29048,,On Leave
+DOC-00438,HOSP-00047,James Mcfarland,Neurology,LIC-376102,12345,,,active
+DOC-00439,HOSP-00066,Melissa Lewis,ENT,,3467379670,,doctor@,Inactive
+DOC-00440,HOSP-00097,Amy Sheppard,Neurology,LIC-INVALID,12345,N/A,,Inactive
+DOC-00441,HOSP-00074,Richard Morris DDS,Pediatrics,LIC-INVALID,,459.342.2461,,Inactive
+DOC-00442,HOSP-00054,Claudia Mitchell,Orthopedics,LIC-740975,5945017771,,courtneydelgado@example.net,
+DOC-00443,HOSP-00027,Sarah Vega,ENT,LIC-INVALID,,+1-434-293-5623x821,fergusondanielle@example.net,Inactive
+DOC-00444,HOSP-00042,Todd Richardson,Psychiatry,LIC-695151,,N/A,,On Leave
+DOC-00445,HOSP-00085,David Valdez,Cardiology,LIC-498145,12345,543-506-4303x949,karentrevino@example.org,Inactive
+DOC-00446,HOSP-00091,Matthew Guzman,Cardiology,LIC-816171,3198549173,(410)341-9473,,Inactive
+DOC-00447,HOSP-00030,Lydia Daniels,Orthopedics,LIC-692613,,N/A,,Inactive
+DOC-00448,HOSP-00005,Kyle Bass,General Medicine,LIC-887198,,N/A,doctor@,active
+DOC-00449,HOSP-00047,Samantha Kennedy,Radiology,LIC-609479,12345,,vlawrence@example.org,Active
+DOC-00450,HOSP-00089,Rhonda Mccarthy,Pediatrics,LIC-INVALID,12345,N/A,,On Leave
+DOC-00451,HOSP-00030,Bonnie Gilbert,Neurology,LIC-715165,,N/A,doctor@,Inactive
+DOC-00452,HOSP-00084,Zachary Velez,Cardiology,,12345,N/A,,Inactive
+DOC-00453,HOSP-00057,Miguel Golden,General Medicine,,8410432599,515.802.7653x72295,,Inactive
+DOC-00454,HOSP-00090,Andrew Rogers,ENT,LIC-INVALID,8229013588,N/A,doctor@,On Leave
+DOC-00455,HOSP-00006,Rachel Hamilton,Psychiatry,,,N/A,doctor@,Inactive
+DOC-00456,HOSP-00074,April Gonzalez,Pediatrics,LIC-INVALID,4440972091,(620)503-8576,,active
+DOC-00457,HOSP-00050,William Bailey,Oncology,LIC-934479,1288667539,N/A,doctor@,active
+DOC-00458,HOSP-00046,Stephen Daniels,Orthopedics,,2088272883,N/A,susan43@example.org,Active
+DOC-00459,HOSP-00068,Scott Williams,General medicine,LIC-INVALID,2027654480,4586682514,,Active
+DOC-00460,HOSP-00077,Brian Smith,Cardiology,LIC-882755,3101553346,,virginia98@example.org,
+DOC-00461,HOSP-00035,Jason Coffey,Pediatric,,,N/A,,
+DOC-00462,HOSP-00067,Benjamin Goodwin,General Medicine,LIC-INVALID,12345,(259)213-4666x120,,On Leave
+DOC-00463,HOSP-00046,Sean Collins,General medicine,,,N/A,doctor@,Active
+DOC-00464,HOSP-00006,Stephen Cooper,Radiology,,12345,+1-940-562-4915x065,doctor@,active
+DOC-00465,HOSP-00087,Robert Carpenter,Cardiology,LIC-741747,6424674376,N/A,,Inactive
+DOC-00466,HOSP-00010,Destiny Barton,Oncology,LIC-996187,12345,241-220-3409x0317,,Inactive
+DOC-00467,HOSP-00095,James Miller,Psychiatry,,,,doctor@,Active
+DOC-00468,HOSP-00046,Gary Tucker,Psychiatry,LIC-839490,12345,,doctor@,On Leave
+DOC-00469,HOSP-00049,Charles Young,cardiology,LIC-530197,1867890345,,,Active
+DOC-00470,HOSP-00069,Laura Young,Pediatrics,LIC-INVALID,4349475907,N/A,,On Leave
+DOC-00471,HOSP-00083,Monica Kelley,Pediatric,,12345,001-665-349-7532x882,,active
+DOC-00472,HOSP-00062,Angela Johnson,Radiology,LIC-842471,12345,001-827-392-0643,vhernandez@example.com,
+DOC-00473,HOSP-00023,Eric Guzman,Neurology,,,N/A,,Active
+DOC-00474,HOSP-00096,Ryan Hayes,Oncology,LIC-INVALID,12345,N/A,,On Leave
+DOC-00475,HOSP-00094,Miss Erica Ellis PhD,Oncology,LIC-936741,,N/A,,
+DOC-00476,HOSP-00048,Bruce Hatfield,General Medicine,LIC-INVALID,3177156887,5632870007,doctor@,On Leave
+DOC-00477,HOSP-00021,Danielle Johnson,Neurology,LIC-INVALID,12345,N/A,,On Leave
+DOC-00478,HOSP-00022,Amanda Johnson,Dermatology,,1470939975,N/A,,Inactive
+DOC-00479,HOSP-00082,Jonathan Beck,Dermatology,,,N/A,slopez@example.net,On Leave
+DOC-00480,HOSP-00036,Mark Higgins,Pediatric,LIC-262681,12345,744.814.6228x87404,justinchambers@example.net,Active
+DOC-00481,HOSP-00018,Lisa Holland,Pediatrics,LIC-INVALID,12345,N/A,doctor@,On Leave
+DOC-00482,HOSP-00047,Patricia Ball,General Medicine,,,369.612.1520x8426,doctor@,Active
+DOC-00483,HOSP-00081,Jon Burnett,Cardiology,LIC-262859,12345,952-399-1106x9353,doctor@,
+DOC-00484,HOSP-00070,Elizabeth Brown,General Medicine,LIC-INVALID,8206669457,,doctor@,active
+DOC-00485,HOSP-00075,Allison Nunez,Pediatric,,,,doctor@,Active
+DOC-00486,HOSP-00092,Caitlyn Garcia,Radiology,,,N/A,,Active
+DOC-00487,HOSP-00006,Stacey Hall,General medicine,LIC-INVALID,12345,N/A,,active
+DOC-00488,HOSP-00078,Jessica Holmes,cardiology,LIC-318324,5517614513,+1-569-701-1825x7362,doctor@,Active
+DOC-00489,HOSP-00079,Phillip Clark,Pediatric,LIC-INVALID,7960786481,,doctor@,On Leave
+DOC-00490,HOSP-00034,Robert Tran,Radiology,LIC-INVALID,,,doctor@,Inactive
+DOC-00491,HOSP-00013,Chris Lopez,Oncology,LIC-408866,6817644274,N/A,duncanjohn@example.com,Active
+DOC-00492,HOSP-00065,Anna Barrett,Radiology,,1626044707,N/A,doctor@,On Leave
+DOC-00493,HOSP-00099,John Anderson,cardiology,LIC-355006,,,doctor@,On Leave
+DOC-00494,HOSP-00027,Mark Palmer,Oncology,,1816278349,,bellpaul@example.com,On Leave
+DOC-00495,HOSP-00089,Carla Todd,General medicine,LIC-292402,3891241722,001-837-840-9739x4334,doctor@,active
+DOC-00496,HOSP-00091,Amanda Long,Cardiology,LIC-956664,12345,,doctor@,active
+DOC-00497,HOSP-00093,Natalie Pennington,Pediatric,LIC-120948,1479752668,,doctor@,active
+DOC-00498,HOSP-00015,Lorraine Green,General medicine,LIC-INVALID,,+1-627-351-2956x18896,,On Leave
+DOC-00499,HOSP-00094,Brian Allen,Pediatrics,,,,,active
+DOC-00500,HOSP-00020,George Huber,Cardiology,LIC-569583,12345,N/A,doctor@,active
