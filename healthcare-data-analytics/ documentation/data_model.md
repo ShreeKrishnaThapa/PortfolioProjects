@@ -48,6 +48,7 @@ Most relationships are **1-to-many (1:*)**.
 
 The model is used in Power BI to analyze appointments, patients, doctors, hospitals, prescriptions, and insurance claims.
 
-Model screenshot:"C:\Users\mager\Pictures\Screenshots\power bi models.png"
+Model screenshot:<img width="676" height="476" alt="power bi models" src="https://github.com/user-attachments/assets/aac88738-c71a-4b67-9107-b0564bc4a8ce" />
+
 
 `powerbi/screenshots/model_view.png`
