@@ -1,1 +1,14 @@
+version: 2
 
+sources:
+  - name: raw
+    database: healthcare-508405
+    schema: raw
+
+    tables:
+      - name: appointment
+      - name: doctors
+      - name: hospital
+      - name: patients
+      - name: prescriptions
+      - name: insurance_claims
