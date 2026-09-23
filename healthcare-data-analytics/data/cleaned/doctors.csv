@@ -1,0 +1,501 @@
+Doctor_ID,Hospital_ID,Doctor_Name,Doctor_Specialty,Medical_License_Number,NPI_Number,Employment_Status
+DOC-00001,HOSP-00003,Kylie Morgan,General medicine,Lic-510120,0000012345,Active
+DOC-00002,HOSP-00031,Amanda Rodriguez,Pediatrics,Unknown,0000000000,Inactive
+DOC-00003,HOSP-00081,Holly Myers,General Medicine,Lic-687256,6606021916,active
+DOC-00004,HOSP-00052,Shannon Watts Md,cardiology,Lic-581859,0000012345,Unknown
+DOC-00005,HOSP-00038,Alan Kirby,cardiology,Lic-Invalid,0000012345,active
+DOC-00006,HOSP-00014,Angie Anderson,Cardiology,Unknown,0000012345,active
+DOC-00007,HOSP-00002,Patrick Decker,General Medicine,Lic-562390,0000012345,Active
+DOC-00008,HOSP-00044,David Cox,Cardiology,Lic-422400,0000012345,Inactive
+DOC-00009,HOSP-00006,Douglas Jones,Pediatrics,Lic-421165,6839964777,On Leave
+DOC-00010,HOSP-00095,Daniel Adams,Dermatology,Lic-Invalid,0000012345,Inactive
+DOC-00011,HOSP-00089,Jessica Sanders,Orthopedics,Lic-603353,5624450863,Unknown
+DOC-00012,HOSP-00008,Amy Cook,Oncology,Unknown,0000012345,Unknown
+DOC-00013,HOSP-00099,Valerie Hernandez,Neurology,Lic-511125,0000000000,On Leave
+DOC-00014,HOSP-00010,Lisa Rogers,Psychiatry,Lic-Invalid,0000012345,On Leave
+DOC-00015,HOSP-00079,David Brown,Psychiatry,Lic-307409,8281536834,active
+DOC-00016,HOSP-00078,Paul Charles,cardiology,Unknown,6437968087,Active
+DOC-00017,HOSP-00056,Gabrielle Flores,Oncology,Lic-Invalid,0000000000,Unknown
+DOC-00018,HOSP-00056,Yolanda Burch,Oncology,Lic-Invalid,0000012345,Active
+DOC-00019,HOSP-00088,Jacob Williamson,ENT,Unknown,0000012345,Active
+DOC-00020,HOSP-00035,Randy Washington,General medicine,Unknown,0000000000,Active
+DOC-00021,HOSP-00091,Kathleen Williams,General Medicine,Lic-Invalid,2154147542,Inactive
+DOC-00022,HOSP-00038,Crystal Brown,General medicine,Unknown,9622553158,Inactive
+DOC-00023,HOSP-00024,Andrea Lee,ENT,Lic-955959,1646634266,Unknown
+DOC-00024,HOSP-00096,Jimmy Schroeder,Neurology,Lic-Invalid,0000012345,Unknown
+DOC-00025,HOSP-00066,Tammy Burke,Cardiology,Unknown,9765735624,On Leave
+DOC-00026,HOSP-00003,Wanda Salazar,Psychiatry,Lic-Invalid,0000000000,Inactive
+DOC-00027,HOSP-00049,Christopher Hawkins,General Medicine,Unknown,2929125481,active
+DOC-00028,HOSP-00066,Angela Salazar,ENT,Unknown,0000012345,On Leave
+DOC-00029,HOSP-00057,Rebecca Walsh,Neurology,Lic-676414,0000012345,Unknown
+DOC-00030,HOSP-00062,John Duncan,Oncology,Lic-Invalid,0000012345,active
+DOC-00031,HOSP-00047,Douglas Lamb,Psychiatry,Unknown,2199704378,Active
+DOC-00032,HOSP-00044,Anthony Ford,Radiology,Lic-Invalid,0000000000,Active
+DOC-00033,HOSP-00087,Chris Giles,Orthopedics,Lic-Invalid,9926971160,On Leave
+DOC-00034,HOSP-00035,Roberto Weber,Cardiology,Lic-Invalid,0000000000,On Leave
+DOC-00035,HOSP-00011,Christopher Weiss,Dermatology,Unknown,0000000000,On Leave
+DOC-00036,HOSP-00051,Brian Haley,General medicine,Lic-Invalid,0000000000,Active
+DOC-00037,HOSP-00041,Kevin Welch,General Medicine,Unknown,0000012345,Unknown
+DOC-00038,HOSP-00002,Gabriel Spencer,General Medicine,Lic-Invalid,0000012345,active
+DOC-00039,HOSP-00010,Andre Moore,Pediatrics,Lic-Invalid,0000000000,Active
+DOC-00040,HOSP-00092,Tracey Meadows,Neurology,Lic-Invalid,0000000000,active
+DOC-00041,HOSP-00045,Cindy Fisher,Pediatrics,Lic-407638,0000000000,Inactive
+DOC-00042,HOSP-00084,Brandon Tanner,Psychiatry,Unknown,5539703681,Active
+DOC-00043,HOSP-00014,Trevor Clayton,Radiology,Lic-Invalid,0000000000,active
+DOC-00044,HOSP-00006,Carl Huffman,Pediatrics,Lic-Invalid,0000012345,On Leave
+DOC-00045,HOSP-00072,Brett Duran,ENT,Unknown,0000000000,Inactive
+DOC-00046,HOSP-00028,Valerie West,Psychiatry,Lic-Invalid,7941674020,On Leave
+DOC-00047,HOSP-00068,Stacy Brown,Orthopedics,Lic-Invalid,0000000000,Active
+DOC-00048,HOSP-00043,Gary Maxwell,General Medicine,Lic-970952,0000012345,On Leave
+DOC-00049,HOSP-00094,Melissa White,Pediatrics,Lic-900420,7732223050,On Leave
+DOC-00050,HOSP-00023,Janice Lucas,General Medicine,Unknown,0000000000,Unknown
+DOC-00051,HOSP-00034,Justin Jones,General Medicine,Lic-Invalid,0000012345,Active
+DOC-00052,HOSP-00037,Maria Harris,Pediatrics,Lic-Invalid,4621028380,Inactive
+DOC-00053,HOSP-00083,Brittany Cervantes Dvm,Psychiatry,Lic-Invalid,7708581757,Unknown
+DOC-00054,HOSP-00044,Maria Leon,Oncology,Unknown,0000012345,Unknown
+DOC-00055,HOSP-00080,Stacy Smith,Oncology,Lic-Invalid,1993414329,Unknown
+DOC-00056,HOSP-00081,Sheila Smith,ENT,Unknown,0000012345,Unknown
+DOC-00057,HOSP-00020,Kelly Davis,Radiology,Lic-Invalid,8591167915,On Leave
+DOC-00058,HOSP-00017,Destiny Clayton,General Medicine,Lic-347823,0000000000,Active
+DOC-00059,HOSP-00091,Robert Rodriguez,Orthopedics,Lic-301793,4465104318,Active
+DOC-00060,HOSP-00092,David Weber,Pediatric,Unknown,8922083960,Unknown
+DOC-00061,HOSP-00001,Nicole Smith,Neurology,Lic-116189,0000000000,Unknown
+DOC-00062,HOSP-00018,Heather Moore,Radiology,Lic-839916,0000012345,active
+DOC-00063,HOSP-00079,Nancy Norman,General Medicine,Unknown,5290275025,Active
+DOC-00064,HOSP-00036,Katie Johnson,Psychiatry,Lic-Invalid,0000012345,active
+DOC-00065,HOSP-00032,Christopher Smith,Radiology,Lic-370686,0000000000,Inactive
+DOC-00066,HOSP-00021,Deborah Jones,ENT,Unknown,5485225563,Inactive
+DOC-00067,HOSP-00005,William Griffin,Psychiatry,Lic-776444,0000000000,Active
+DOC-00068,HOSP-00098,Sara Hamilton Dds,General Medicine,Lic-Invalid,0000012345,active
+DOC-00069,HOSP-00018,Heather Washington,General medicine,Lic-Invalid,0000012345,active
+DOC-00070,HOSP-00021,Jessica Dunn,Radiology,Unknown,0000012345,active
+DOC-00071,HOSP-00064,Jessica Garcia,Psychiatry,Unknown,0000012345,Inactive
+DOC-00072,HOSP-00078,Michael Medina,Orthopedics,Lic-849450,8793075335,Inactive
+DOC-00073,HOSP-00047,Dr. Melissa Brown Md,Dermatology,Unknown,0000000000,Unknown
+DOC-00074,HOSP-00077,Richard Garcia,General medicine,Lic-718400,0000012345,Inactive
+DOC-00075,HOSP-00015,Ryan Walton,Neurology,Lic-144951,0000012345,Inactive
+DOC-00076,HOSP-00057,Tara Ross,Cardiology,Lic-799199,3618532055,Unknown
+DOC-00077,HOSP-00025,Jennifer Davis,General Medicine,Unknown,0000000000,active
+DOC-00078,HOSP-00088,Susan Schmidt,Cardiology,Lic-Invalid,0000012345,On Leave
+DOC-00079,HOSP-00033,David Alvarez,Dermatology,Unknown,0000000000,active
+DOC-00080,HOSP-00040,Madeline Green,Orthopedics,Lic-805295,0000012345,On Leave
+DOC-00081,HOSP-00010,Sherry Kaiser,General medicine,Lic-Invalid,0000000000,Active
+DOC-00082,HOSP-00042,Tina Alexander,Oncology,Lic-150862,5117684939,On Leave
+DOC-00083,HOSP-00043,Virginia Freeman,Dermatology,Lic-905478,0000012345,Inactive
+DOC-00084,HOSP-00060,Michael Huang,Neurology,Lic-Invalid,0000000000,On Leave
+DOC-00085,HOSP-00028,Michelle Aguilar,Cardiology,Lic-Invalid,0000000000,Active
+DOC-00086,HOSP-00094,Kayla Valencia,General Medicine,Unknown,0000000000,On Leave
+DOC-00087,HOSP-00046,Robert Powell,Pediatric,Lic-Invalid,0000000000,active
+DOC-00088,HOSP-00083,Aaron Guerra,Pediatric,Lic-Invalid,0000012345,Unknown
+DOC-00089,HOSP-00031,George Stone,Neurology,Lic-522410,0000000000,On Leave
+DOC-00090,HOSP-00062,Mark Villarreal,Psychiatry,Unknown,0000000000,Inactive
+DOC-00091,HOSP-00052,Karen Medina,cardiology,Unknown,2115769669,active
+DOC-00092,HOSP-00054,Christine Smith,Neurology,Lic-Invalid,0000000000,active
+DOC-00093,HOSP-00093,Adam Lopez,General medicine,Unknown,0000012345,Active
+DOC-00094,HOSP-00047,Jason Hernandez,Orthopedics,Lic-200020,0000012345,Unknown
+DOC-00095,HOSP-00076,Sandra Davis,Dermatology,Lic-156991,6647412274,active
+DOC-00096,HOSP-00098,Todd Bailey,Cardiology,Lic-397630,0000012345,active
+DOC-00097,HOSP-00003,Amanda Berry,Neurology,Lic-313621,5822812049,On Leave
+DOC-00098,HOSP-00069,Nathan Whitaker,General Medicine,Unknown,0000000000,On Leave
+DOC-00099,HOSP-00084,Brian Hill,ENT,Lic-408717,4284097726,active
+DOC-00100,HOSP-00083,Mason Morris,Radiology,Unknown,0000012345,Active
+DOC-00101,HOSP-00024,Richard Harmon,Radiology,Lic-815212,0000000000,On Leave
+DOC-00102,HOSP-00080,Deborah Nguyen,Neurology,Lic-Invalid,7893475172,On Leave
+DOC-00103,HOSP-00082,Daniel Watson,Cardiology,Lic-363842,0000012345,active
+DOC-00104,HOSP-00057,Christopher Lynch,Neurology,Lic-Invalid,0000000000,On Leave
+DOC-00105,HOSP-00055,Jason Harding,Pediatrics,Lic-Invalid,0000012345,Active
+DOC-00106,HOSP-00089,Alicia Simmons,Neurology,Unknown,5998977856,Inactive
+DOC-00107,HOSP-00082,Christopher King,Cardiology,Lic-318709,0000012345,Unknown
+DOC-00108,HOSP-00054,Karen Harris,Cardiology,Lic-Invalid,0000000000,Active
+DOC-00109,HOSP-00032,Laura Miller,Radiology,Lic-Invalid,0000000000,Inactive
+DOC-00110,HOSP-00088,Andrea Mcdonald,General medicine,Unknown,0000012345,On Leave
+DOC-00111,HOSP-00060,Sandra Pham,Orthopedics,Lic-725520,2344930037,On Leave
+DOC-00112,HOSP-00075,Tammy Tucker,cardiology,Lic-Invalid,3663990028,active
+DOC-00113,HOSP-00087,Alisha Parker,General Medicine,Lic-Invalid,0000000000,Active
+DOC-00114,HOSP-00012,Laura Odonnell,Oncology,Lic-Invalid,0000012345,Active
+DOC-00115,HOSP-00006,William Johnson,Oncology,Unknown,0000000000,Unknown
+DOC-00116,HOSP-00034,Jacob Hill,cardiology,Unknown,0000000000,Active
+DOC-00117,HOSP-00061,Stephanie Smith,General medicine,Lic-Invalid,0000012345,Unknown
+DOC-00118,HOSP-00060,Anthony Hughes,Radiology,Lic-213825,0000012345,Active
+DOC-00119,HOSP-00043,Karen Coleman,General medicine,Unknown,7900628717,On Leave
+DOC-00120,HOSP-00049,Jennifer Garcia,General Medicine,Lic-659325,3454426543,active
+DOC-00121,HOSP-00020,Luis Wood,Neurology,Unknown,2943614471,Inactive
+DOC-00122,HOSP-00090,Jack Barnes,Dermatology,Lic-Invalid,0000012345,Active
+DOC-00123,HOSP-00031,William White,Cardiology,Unknown,0000000000,Active
+DOC-00124,HOSP-00023,Chad Meyer,General medicine,Lic-829587,0000012345,active
+DOC-00125,HOSP-00043,Ashley Garcia,Cardiology,Lic-Invalid,5908294321,Active
+DOC-00126,HOSP-00054,Maria Colon,Orthopedics,Lic-Invalid,0000000000,Unknown
+DOC-00127,HOSP-00070,Kenneth Nguyen,Cardiology,Lic-760408,2383922239,Unknown
+DOC-00128,HOSP-00078,Tracy Daniel,Cardiology,Lic-583960,0000012345,active
+DOC-00129,HOSP-00056,David Grant,Orthopedics,Lic-871510,7877638965,Unknown
+DOC-00130,HOSP-00061,Daniel Davis,ENT,Unknown,3603739595,Inactive
+DOC-00131,HOSP-00007,Scott Ramirez,Psychiatry,Lic-Invalid,1374777006,Active
+DOC-00132,HOSP-00032,Elaine Taylor,Oncology,Lic-Invalid,0000012345,active
+DOC-00133,HOSP-00037,Dr. Linda Mcgee,Pediatrics,Lic-853443,7994278518,Inactive
+DOC-00134,HOSP-00071,Wendy Meyer,Psychiatry,Lic-746239,6977962941,Unknown
+DOC-00135,HOSP-00043,Jesse Cook,General medicine,Lic-535374,0000012345,active
+DOC-00136,HOSP-00062,William Baker,ENT,Lic-Invalid,0000012345,On Leave
+DOC-00137,HOSP-00007,Michael Mills,Radiology,Lic-357034,0000000000,Active
+DOC-00138,HOSP-00056,Caleb Anderson,Oncology,Unknown,0000012345,active
+DOC-00139,HOSP-00074,Michael Hutchinson,Neurology,Lic-Invalid,0000012345,On Leave
+DOC-00140,HOSP-00097,Kathy Fox,Orthopedics,Lic-443153,0000012345,active
+DOC-00141,HOSP-00096,Matthew Terry,Neurology,Unknown,8340412816,Inactive
+DOC-00142,HOSP-00018,Tammy Johnson,ENT,Lic-426541,0000012345,active
+DOC-00143,HOSP-00059,Jose Mullins,Pediatrics,Lic-Invalid,0000000000,active
+DOC-00144,HOSP-00086,Carla Koch,cardiology,Lic-387642,2822856131,Unknown
+DOC-00145,HOSP-00053,Stephanie Watkins,Pediatric,Lic-660462,0000000000,Inactive
+DOC-00146,HOSP-00090,Christine Gates,General Medicine,Lic-272950,2574793098,Inactive
+DOC-00147,HOSP-00071,Joshua Miller,Orthopedics,Lic-784332,0000000000,Active
+DOC-00148,HOSP-00016,Nicole Richards,Psychiatry,Lic-721794,0000000000,Active
+DOC-00149,HOSP-00083,Shannon Johnson,ENT,Lic-818439,0000000000,Unknown
+DOC-00150,HOSP-00032,Carol Gutierrez,Cardiology,Lic-Invalid,2060422328,Unknown
+DOC-00151,HOSP-00074,Kyle Maldonado,General medicine,Lic-Invalid,9436046290,Active
+DOC-00152,HOSP-00089,Jason Russell,Dermatology,Lic-357617,0000000000,Active
+DOC-00153,HOSP-00073,Mrs. Nancy Martin Md,Dermatology,Unknown,0000012345,On Leave
+DOC-00154,HOSP-00055,Michael Murray,Psychiatry,Lic-541663,0000012345,Inactive
+DOC-00155,HOSP-00095,Linda Torres,Orthopedics,Lic-Invalid,0000012345,active
+DOC-00156,HOSP-00030,Ashlee Cline,Neurology,Unknown,1685181323,Inactive
+DOC-00157,HOSP-00046,Jill Burke,Pediatric,Lic-Invalid,9726481418,active
+DOC-00158,HOSP-00069,Ashley Smith,Oncology,Unknown,0000000000,Active
+DOC-00159,HOSP-00003,Kyle Martin,General Medicine,Lic-Invalid,0000012345,Inactive
+DOC-00160,HOSP-00085,Juan Christensen,General medicine,Lic-560450,0000000000,Active
+DOC-00161,HOSP-00094,Dennis Foster,Pediatric,Lic-Invalid,0000000000,Active
+DOC-00162,HOSP-00071,Albert Maddox,Radiology,Lic-162624,0000012345,active
+DOC-00163,HOSP-00036,Alyssa Dominguez,ENT,Lic-796351,0000000000,On Leave
+DOC-00164,HOSP-00071,Roy Edwards,Psychiatry,Lic-Invalid,0000012345,Active
+DOC-00165,HOSP-00001,Jeffrey Miller,cardiology,Lic-Invalid,0000012345,On Leave
+DOC-00166,HOSP-00072,Ashley James,Psychiatry,Unknown,2466294681,Inactive
+DOC-00167,HOSP-00024,Ariana Byrd,Neurology,Unknown,2588953157,Unknown
+DOC-00168,HOSP-00037,Amy Walton,General Medicine,Unknown,0000012345,Inactive
+DOC-00169,HOSP-00039,John Holt,Neurology,Unknown,0000012345,Unknown
+DOC-00170,HOSP-00060,Diane Garcia,Dermatology,Lic-879524,0000012345,Active
+DOC-00171,HOSP-00040,Elizabeth Gillespie,Radiology,Lic-436724,0000012345,active
+DOC-00172,HOSP-00049,John Bray,General medicine,Lic-Invalid,2204239556,active
+DOC-00173,HOSP-00048,Mr. Jesus Wagner,Dermatology,Unknown,0000000000,active
+DOC-00174,HOSP-00006,Dr. Brandy Arnold,cardiology,Lic-878331,3642970557,active
+DOC-00175,HOSP-00011,Ronald Gallagher,Psychiatry,Lic-Invalid,5377356765,Inactive
+DOC-00176,HOSP-00047,Maria Wood,Pediatric,Lic-Invalid,0000012345,Inactive
+DOC-00177,HOSP-00047,Brooke Lopez,cardiology,Lic-Invalid,0000012345,Inactive
+DOC-00178,HOSP-00038,Michael Summers,Orthopedics,Lic-681713,0000000000,active
+DOC-00179,HOSP-00048,Matthew Henry,ENT,Lic-972272,8394838045,Unknown
+DOC-00180,HOSP-00094,Dean Huynh,Dermatology,Unknown,6166414846,On Leave
+DOC-00181,HOSP-00093,Paul Lopez,Psychiatry,Lic-313385,0000012345,active
+DOC-00182,HOSP-00054,Derek Guzman,Oncology,Lic-203538,4190621120,On Leave
+DOC-00183,HOSP-00073,Angel Sanchez,General medicine,Lic-490315,0000000000,On Leave
+DOC-00184,HOSP-00009,Briana Castillo,Pediatrics,Lic-485413,0000012345,Active
+DOC-00185,HOSP-00083,Joshua Brown,Radiology,Lic-Invalid,0000000000,Inactive
+DOC-00186,HOSP-00066,Mark Butler,General Medicine,Lic-502516,3361510273,Inactive
+DOC-00187,HOSP-00052,Courtney Jones,General medicine,Unknown,0000012345,On Leave
+DOC-00188,HOSP-00032,Mason Salinas,Dermatology,Lic-380885,0000012345,Unknown
+DOC-00189,HOSP-00081,Steven Smith,cardiology,Lic-411152,0000012345,Inactive
+DOC-00190,HOSP-00042,Jennifer Cox,Cardiology,Lic-Invalid,0000000000,Inactive
+DOC-00191,HOSP-00024,Stacy Flores,Orthopedics,Unknown,0000000000,On Leave
+DOC-00192,HOSP-00068,Brandon Martin,Neurology,Lic-Invalid,0000000000,Inactive
+DOC-00193,HOSP-00026,Christopher Ford,ENT,Lic-Invalid,1527676936,Active
+DOC-00194,HOSP-00082,Howard Nielsen,Pediatrics,Lic-Invalid,0000012345,Unknown
+DOC-00195,HOSP-00053,Charles Richard,Neurology,Lic-Invalid,5330889195,Inactive
+DOC-00196,HOSP-00090,Edward Anderson,Orthopedics,Unknown,0000000000,Active
+DOC-00197,HOSP-00047,Eric Lester,Orthopedics,Lic-459256,0000000000,Active
+DOC-00198,HOSP-00100,William Dean,Orthopedics,Unknown,6168880000,Inactive
+DOC-00199,HOSP-00011,Marisa Chavez,General Medicine,Unknown,0000012345,Active
+DOC-00200,HOSP-00046,Sarah Perry,General Medicine,Lic-Invalid,6287911758,Inactive
+DOC-00201,HOSP-00027,Holly King,Orthopedics,Unknown,6264644151,Unknown
+DOC-00202,HOSP-00071,Kevin Huynh Dds,Oncology,Lic-Invalid,4461547650,Active
+DOC-00203,HOSP-00069,Susan Hernandez,ENT,Lic-624911,0000000000,Unknown
+DOC-00204,HOSP-00098,Daniel Chandler,Radiology,Lic-238922,0000000000,Inactive
+DOC-00205,HOSP-00048,Kim Jenkins,Dermatology,Lic-560775,0000000000,Unknown
+DOC-00206,HOSP-00004,Patrick Guzman,Orthopedics,Lic-Invalid,0000012345,Unknown
+DOC-00207,HOSP-00069,Felicia Cunningham,General medicine,Lic-Invalid,0000000000,Active
+DOC-00208,HOSP-00070,Darlene Johnson,Dermatology,Lic-Invalid,6014711019,Unknown
+DOC-00209,HOSP-00014,Jake Garza,ENT,Unknown,0000000000,Active
+DOC-00210,HOSP-00001,Melissa Sherman,Cardiology,Lic-Invalid,0000012345,Active
+DOC-00211,HOSP-00017,Brittany Leblanc,Pediatrics,Lic-770579,0000000000,On Leave
+DOC-00212,HOSP-00060,Christina Leon,Orthopedics,Unknown,0000012345,active
+DOC-00213,HOSP-00085,Annette Bennett,Dermatology,Lic-803920,0000000000,active
+DOC-00214,HOSP-00063,Judy Hunter,Oncology,Lic-683154,0000012345,On Leave
+DOC-00215,HOSP-00048,Kenneth Powers,General medicine,Unknown,9493059160,Active
+DOC-00216,HOSP-00084,Richard Coleman,cardiology,Lic-276423,8265061556,Active
+DOC-00217,HOSP-00048,Angel Barker,General Medicine,Unknown,0000000000,Unknown
+DOC-00218,HOSP-00032,Kevin Douglas,Pediatric,Lic-Invalid,0000000000,On Leave
+DOC-00219,HOSP-00064,Cynthia Wells,Pediatrics,Lic-587861,9745958134,Unknown
+DOC-00220,HOSP-00092,April Armstrong,cardiology,Lic-Invalid,1884417047,active
+DOC-00221,HOSP-00030,Katherine Reeves Md,Cardiology,Lic-445001,9496767844,Active
+DOC-00222,HOSP-00083,James Moore,ENT,Lic-Invalid,0000012345,Inactive
+DOC-00223,HOSP-00075,Mary Coleman,Cardiology,Lic-724918,4772721241,Unknown
+DOC-00224,HOSP-00085,Kendra White,General medicine,Lic-912805,0000000000,Active
+DOC-00225,HOSP-00071,Kathryn Yang,Pediatric,Unknown,0000012345,Unknown
+DOC-00226,HOSP-00050,Colleen Brown,ENT,Unknown,4763670834,Inactive
+DOC-00227,HOSP-00067,Janet Diaz,cardiology,Lic-732129,0000000000,Active
+DOC-00228,HOSP-00078,Patricia Lopez,Pediatrics,Lic-815460,0000000000,active
+DOC-00229,HOSP-00096,Darrell Calderon,Neurology,Unknown,2617580503,Unknown
+DOC-00230,HOSP-00092,Tammy Martin,Dermatology,Lic-Invalid,9470771818,Inactive
+DOC-00231,HOSP-00036,Kelsey Stephenson,ENT,Unknown,6939398599,Unknown
+DOC-00232,HOSP-00001,Taylor Levine,Orthopedics,Lic-Invalid,0000000000,Inactive
+DOC-00233,HOSP-00016,Connie Gordon,General Medicine,Unknown,0000012345,Inactive
+DOC-00234,HOSP-00043,Sierra Oneal,Neurology,Lic-Invalid,0000000000,Unknown
+DOC-00235,HOSP-00012,Tina James,Radiology,Unknown,0000012345,Unknown
+DOC-00236,HOSP-00049,Scott Aguirre,Oncology,Unknown,0000012345,Inactive
+DOC-00237,HOSP-00002,Douglas Nelson,General Medicine,Lic-Invalid,0000000000,active
+DOC-00238,HOSP-00061,David Acevedo,General medicine,Unknown,4712111856,Unknown
+DOC-00239,HOSP-00066,Casey Francis,Orthopedics,Lic-769538,0000000000,Unknown
+DOC-00240,HOSP-00036,Jonathan Chaney,Psychiatry,Lic-Invalid,0000000000,active
+DOC-00241,HOSP-00023,Christopher Shields,Dermatology,Unknown,0000012345,active
+DOC-00242,HOSP-00078,Kevin Patel,ENT,Lic-Invalid,0000000000,On Leave
+DOC-00243,HOSP-00056,Jose Floyd,cardiology,Lic-852591,0000000000,Inactive
+DOC-00244,HOSP-00036,Troy Bowen,Neurology,Lic-Invalid,0000012345,active
+DOC-00245,HOSP-00046,David Stephens,Oncology,Lic-635301,0000012345,Unknown
+DOC-00246,HOSP-00085,Christopher Hebert,Orthopedics,Unknown,0000000000,Active
+DOC-00247,HOSP-00048,David Dominguez,Cardiology,Unknown,8344763236,Unknown
+DOC-00248,HOSP-00078,Christine Mcneil,ENT,Unknown,0000000000,On Leave
+DOC-00249,HOSP-00029,Brian Mcgrath,Oncology,Lic-Invalid,3846451716,Unknown
+DOC-00250,HOSP-00063,Ryan Hawkins,Pediatric,Unknown,0000012345,On Leave
+DOC-00251,HOSP-00017,Brian Melendez,ENT,Lic-Invalid,0000012345,active
+DOC-00252,HOSP-00047,Alec West,cardiology,Lic-Invalid,0000012345,Unknown
+DOC-00253,HOSP-00010,Rebecca Campbell,Oncology,Unknown,6686941727,Unknown
+DOC-00254,HOSP-00017,Martha Roth,ENT,Unknown,6054997244,Unknown
+DOC-00255,HOSP-00011,Mark Jones,Cardiology,Lic-518406,0000000000,Inactive
+DOC-00256,HOSP-00057,Jessica Stephens,Oncology,Unknown,0000000000,On Leave
+DOC-00257,HOSP-00047,Amy Hart,Oncology,Lic-616092,1321950040,Inactive
+DOC-00258,HOSP-00039,Katherine Hoffman,Cardiology,Lic-Invalid,0000000000,Unknown
+DOC-00259,HOSP-00065,Karen Molina Md,Radiology,Unknown,0000000000,Active
+DOC-00260,HOSP-00064,Pamela Estrada,Neurology,Lic-916647,0000000000,Active
+DOC-00261,HOSP-00032,Amy Nelson,ENT,Unknown,0000012345,Active
+DOC-00262,HOSP-00047,William Santana,General Medicine,Lic-Invalid,0000012345,Unknown
+DOC-00263,HOSP-00048,Angela Fleming,Dermatology,Unknown,0000012345,Active
+DOC-00264,HOSP-00040,Robert Solis,Cardiology,Unknown,1282285843,On Leave
+DOC-00265,HOSP-00081,James Weaver,General medicine,Lic-Invalid,0000012345,active
+DOC-00266,HOSP-00037,Dustin Gomez,General Medicine,Lic-136614,0000000000,Inactive
+DOC-00267,HOSP-00024,Anita Walker,Orthopedics,Lic-170326,0000012345,Inactive
+DOC-00268,HOSP-00034,Darren Morrow,General medicine,Lic-939344,4804584735,Unknown
+DOC-00269,HOSP-00078,Malik Howard,General Medicine,Lic-384944,5732684527,Inactive
+DOC-00270,HOSP-00020,Danielle Smith,Orthopedics,Lic-Invalid,0000000000,Active
+DOC-00271,HOSP-00048,Morgan Cole,Dermatology,Unknown,0000012345,On Leave
+DOC-00272,HOSP-00057,Jessica Taylor,ENT,Lic-Invalid,0000000000,Inactive
+DOC-00273,HOSP-00021,Jean Watkins,General medicine,Lic-306316,0000012345,Unknown
+DOC-00274,HOSP-00049,Elijah Perez,Pediatric,Lic-234848,0000012345,Active
+DOC-00275,HOSP-00094,Ryan Singh,Cardiology,Lic-679077,0000012345,Active
+DOC-00276,HOSP-00040,Jeremy Oliver,Dermatology,Unknown,3870432814,On Leave
+DOC-00277,HOSP-00068,Michele Gutierrez,Neurology,Unknown,0000000000,Active
+DOC-00278,HOSP-00093,Rebecca Wheeler,General medicine,Lic-266757,0000000000,On Leave
+DOC-00279,HOSP-00056,Mary Smith,Cardiology,Lic-548222,5464951869,Inactive
+DOC-00280,HOSP-00042,Stephen Taylor,Pediatrics,Lic-Invalid,0000000000,Unknown
+DOC-00281,HOSP-00018,Candace Watson,Oncology,Unknown,0000012345,active
+DOC-00282,HOSP-00076,Jesse Rogers,Neurology,Unknown,0000000000,Active
+DOC-00283,HOSP-00080,Erin Jones,Radiology,Lic-973861,2759873075,Inactive
+DOC-00284,HOSP-00098,Denise Hoffman,ENT,Lic-276053,6382216333,On Leave
+DOC-00285,HOSP-00033,Charlene Fowler,Pediatric,Lic-Invalid,4072684599,Active
+DOC-00286,HOSP-00022,Rachel Murphy,Pediatrics,Lic-Invalid,6832760959,Active
+DOC-00287,HOSP-00010,Craig West,ENT,Lic-658855,0000000000,Inactive
+DOC-00288,HOSP-00011,Elijah Terry,Cardiology,Unknown,0000012345,Unknown
+DOC-00289,HOSP-00034,Mark Barber,Orthopedics,Lic-Invalid,1575954643,Unknown
+DOC-00290,HOSP-00086,Molly Garza,Pediatric,Lic-395977,0000012345,On Leave
+DOC-00291,HOSP-00005,Nicole Dean,ENT,Lic-Invalid,3711969860,active
+DOC-00292,HOSP-00012,Matthew Vasquez,Cardiology,Lic-885343,0000012345,On Leave
+DOC-00293,HOSP-00077,Brandon Garcia,Psychiatry,Lic-414870,0000012345,active
+DOC-00294,HOSP-00023,Jennifer Gilbert Md,Oncology,Lic-188757,0000012345,Unknown
+DOC-00295,HOSP-00023,Michael Morales,General medicine,Lic-948609,6650581822,Inactive
+DOC-00296,HOSP-00072,Elizabeth Haynes,Oncology,Lic-Invalid,7761756368,Inactive
+DOC-00297,HOSP-00073,Michael Rivas,Pediatric,Lic-235492,0000000000,Inactive
+DOC-00298,HOSP-00041,Justin Newman,Radiology,Lic-Invalid,1568793392,active
+DOC-00299,HOSP-00044,Nathaniel Strickland,Pediatrics,Unknown,0000012345,Unknown
+DOC-00300,HOSP-00012,Ashley Hardy,Pediatric,Unknown,0000000000,Inactive
+DOC-00301,HOSP-00013,Ronald Freeman,cardiology,Lic-471822,0000000000,Active
+DOC-00302,HOSP-00013,Ryan Elliott,ENT,Lic-472345,6040770096,active
+DOC-00303,HOSP-00090,Thomas Haas Jr.,Pediatric,Lic-Invalid,0000000000,Active
+DOC-00304,HOSP-00069,Jeffrey Hill,ENT,Lic-413568,0000000000,active
+DOC-00305,HOSP-00043,Karen Lynch,Pediatrics,Lic-Invalid,0000000000,Inactive
+DOC-00306,HOSP-00073,Janice Cruz,Orthopedics,Lic-Invalid,9248755051,Active
+DOC-00307,HOSP-00100,Daniel Petersen,ENT,Unknown,0000012345,Inactive
+DOC-00308,HOSP-00006,Jessica Smith,Psychiatry,Lic-Invalid,6895223464,On Leave
+DOC-00309,HOSP-00096,Thomas Wiley,Psychiatry,Unknown,9871271906,On Leave
+DOC-00310,HOSP-00051,Phillip Taylor,Orthopedics,Lic-Invalid,0000000000,Inactive
+DOC-00311,HOSP-00080,Elizabeth Adams,Neurology,Unknown,0000012345,On Leave
+DOC-00312,HOSP-00034,Jason Nelson,Pediatric,Lic-249413,0000012345,Active
+DOC-00313,HOSP-00033,Derek Mayo,Cardiology,Lic-312292,0000012345,Inactive
+DOC-00314,HOSP-00035,Elizabeth Bradford,Radiology,Lic-314438,0000012345,active
+DOC-00315,HOSP-00046,Veronica Rodriguez,General Medicine,Lic-Invalid,2410658876,On Leave
+DOC-00316,HOSP-00048,Amanda Cook,Neurology,Unknown,0000000000,active
+DOC-00317,HOSP-00027,Ryan Reyes,Neurology,Lic-Invalid,6033571413,Unknown
+DOC-00318,HOSP-00092,James Fields,Pediatrics,Lic-426601,0000012345,active
+DOC-00319,HOSP-00054,David Montgomery,Neurology,Lic-Invalid,0000000000,active
+DOC-00320,HOSP-00088,Katherine Farley,General Medicine,Lic-Invalid,0000012345,Unknown
+DOC-00321,HOSP-00060,Courtney Petty,Oncology,Lic-596390,0000012345,Inactive
+DOC-00322,HOSP-00040,Miguel Davis,Pediatric,Lic-750377,7532258120,active
+DOC-00323,HOSP-00079,Mackenzie Jimenez,Pediatrics,Unknown,0000012345,Inactive
+DOC-00324,HOSP-00068,Peter Webb,Orthopedics,Lic-Invalid,8047306167,Unknown
+DOC-00325,HOSP-00055,April Wilkerson,Dermatology,Unknown,9291845012,Unknown
+DOC-00326,HOSP-00028,Stephen Haynes,Oncology,Unknown,0000012345,Active
+DOC-00327,HOSP-00051,Douglas Lewis,Oncology,Unknown,0000000000,Active
+DOC-00328,HOSP-00017,Miss Eileen Mccall,Radiology,Lic-990314,0000012345,Unknown
+DOC-00329,HOSP-00018,Michael Taylor,General Medicine,Lic-Invalid,0000000000,On Leave
+DOC-00330,HOSP-00025,Andrew Mendez,Pediatrics,Unknown,0000012345,Active
+DOC-00331,HOSP-00042,Kathy Jefferson,General Medicine,Unknown,0000012345,On Leave
+DOC-00332,HOSP-00099,Katelyn Jones,Psychiatry,Unknown,0000012345,active
+DOC-00333,HOSP-00045,Katrina Berry,General Medicine,Lic-Invalid,0000000000,Unknown
+DOC-00334,HOSP-00099,Holly Vazquez,General Medicine,Lic-590738,0000000000,Unknown
+DOC-00335,HOSP-00033,Austin Terry,Pediatrics,Lic-Invalid,0000012345,On Leave
+DOC-00336,HOSP-00029,Caitlyn Thompson,General medicine,Lic-407279,0000012345,Inactive
+DOC-00337,HOSP-00052,Jeffrey Simpson,Pediatrics,Lic-881684,0000000000,Unknown
+DOC-00338,HOSP-00018,Sharon Prince,Pediatrics,Lic-350514,0000000000,Active
+DOC-00339,HOSP-00014,Russell Lynch Dvm,General Medicine,Unknown,0000000000,Unknown
+DOC-00340,HOSP-00009,Rebecca Smith,Psychiatry,Unknown,0000000000,Unknown
+DOC-00341,HOSP-00022,David Griffin,Pediatric,Lic-591663,0000012345,Active
+DOC-00342,HOSP-00088,Samuel Scott,Dermatology,Lic-Invalid,0000012345,Inactive
+DOC-00343,HOSP-00094,Mr. Juan Richardson,ENT,Unknown,0000012345,On Leave
+DOC-00344,HOSP-00018,Jeffery Gonzalez Iii,Cardiology,Lic-Invalid,0000012345,Unknown
+DOC-00345,HOSP-00094,Brianna Acosta,General Medicine,Unknown,2958304559,Active
+DOC-00346,HOSP-00064,Jeremy Melendez,Psychiatry,Lic-379505,0000000000,active
+DOC-00347,HOSP-00044,Leon Jensen,Oncology,Lic-Invalid,0000000000,Active
+DOC-00348,HOSP-00090,Lori Edwards,Dermatology,Lic-336534,6287784525,Active
+DOC-00349,HOSP-00008,John Hinton,Pediatrics,Lic-Invalid,0000000000,On Leave
+DOC-00350,HOSP-00062,Jody Rogers,Psychiatry,Unknown,1534711377,Active
+DOC-00351,HOSP-00066,Zachary Wilson,Dermatology,Lic-536123,1027267402,Inactive
+DOC-00352,HOSP-00024,Crystal Jones,Pediatric,Lic-336012,0000000000,Unknown
+DOC-00353,HOSP-00088,Allen Lopez,Oncology,Lic-881614,0000000000,active
+DOC-00354,HOSP-00048,Sandra Richards,cardiology,Unknown,0000012345,Unknown
+DOC-00355,HOSP-00019,Erica Anderson,Pediatrics,Unknown,0000000000,Inactive
+DOC-00356,HOSP-00025,Sherry Garcia,Dermatology,Lic-563308,0000000000,Inactive
+DOC-00357,HOSP-00008,Lori Glover,General Medicine,Lic-742794,0000000000,Inactive
+DOC-00358,HOSP-00091,Meagan Elliott,Orthopedics,Unknown,0000000000,Unknown
+DOC-00359,HOSP-00099,Katelyn Mills,Dermatology,Unknown,0000000000,On Leave
+DOC-00360,HOSP-00049,Eric Martin,Psychiatry,Unknown,1724071682,active
+DOC-00361,HOSP-00075,Travis Maldonado,Neurology,Lic-440071,3181997167,Inactive
+DOC-00362,HOSP-00009,Leslie Ewing,cardiology,Unknown,3292191282,On Leave
+DOC-00363,HOSP-00031,Alexandra Lopez,Neurology,Lic-821714,0000012345,active
+DOC-00364,HOSP-00055,Megan Smith,Orthopedics,Unknown,0000012345,active
+DOC-00365,HOSP-00034,Nicholas Rosales,Oncology,Lic-282731,0000000000,Inactive
+DOC-00366,HOSP-00043,Ashley Buchanan,Oncology,Lic-Invalid,8382552426,Inactive
+DOC-00367,HOSP-00018,Amy Rodriguez,Cardiology,Lic-Invalid,2693143472,Active
+DOC-00368,HOSP-00013,Jodi Rodriguez,Dermatology,Lic-Invalid,0000000000,active
+DOC-00369,HOSP-00022,Christopher Schmidt,Orthopedics,Lic-Invalid,7363454664,Active
+DOC-00370,HOSP-00018,Benjamin Lewis,cardiology,Unknown,0000012345,Inactive
+DOC-00371,HOSP-00032,Christine Cisneros,General Medicine,Lic-Invalid,0000000000,Unknown
+DOC-00372,HOSP-00048,Danielle Garrett,General Medicine,Unknown,0000000000,On Leave
+DOC-00373,HOSP-00062,Robert Carroll,General Medicine,Lic-247498,0000012345,Unknown
+DOC-00374,HOSP-00004,Cassidy Hart,cardiology,Lic-Invalid,6648667800,Inactive
+DOC-00375,HOSP-00027,Thomas Stone,Psychiatry,Lic-Invalid,0000000000,On Leave
+DOC-00376,HOSP-00050,John Cruz,Dermatology,Unknown,3222150434,Inactive
+DOC-00377,HOSP-00082,Elizabeth Hernandez,Oncology,Lic-319371,0000012345,Unknown
+DOC-00378,HOSP-00098,Gregory Rodriguez,Oncology,Unknown,7350759196,On Leave
+DOC-00379,HOSP-00071,Carol Hall,Oncology,Lic-267418,0000012345,Active
+DOC-00380,HOSP-00036,Anthony Hardy,Pediatric,Lic-855412,0000012345,Inactive
+DOC-00381,HOSP-00072,Donald White,ENT,Lic-126462,7640730152,On Leave
+DOC-00382,HOSP-00093,Barry Nelson,Radiology,Lic-410167,0000000000,Inactive
+DOC-00383,HOSP-00020,Kimberly Williams,Pediatric,Unknown,0000012345,Unknown
+DOC-00384,HOSP-00020,Albert Suarez,General medicine,Lic-Invalid,0000000000,Unknown
+DOC-00385,HOSP-00087,Jeffrey Sanchez,Orthopedics,Lic-794280,0000000000,On Leave
+DOC-00386,HOSP-00008,Kevin Johnson,ENT,Lic-Invalid,0000012345,active
+DOC-00387,HOSP-00099,Heidi Garcia,Orthopedics,Lic-589773,0000000000,Unknown
+DOC-00388,HOSP-00001,Daniel Gallagher,Dermatology,Lic-Invalid,8165441014,Unknown
+DOC-00389,HOSP-00013,Daisy Mercado,Radiology,Lic-344697,0000012345,Active
+DOC-00390,HOSP-00030,Teresa Miller,General medicine,Lic-Invalid,9253906216,active
+DOC-00391,HOSP-00015,Morgan Wright,General Medicine,Lic-869978,0000012345,On Leave
+DOC-00392,HOSP-00034,Bryan Baker,Psychiatry,Lic-888376,7628098398,Unknown
+DOC-00393,HOSP-00094,Jeffrey Horton,ENT,Unknown,8835768649,Inactive
+DOC-00394,HOSP-00051,Robert Castillo,Oncology,Lic-Invalid,0000000000,Unknown
+DOC-00395,HOSP-00042,Vanessa Bates,General medicine,Lic-Invalid,0000012345,Inactive
+DOC-00396,HOSP-00099,Holly Strong,Oncology,Lic-416762,2217530333,Active
+DOC-00397,HOSP-00032,Jonathan Green,Cardiology,Unknown,0000012345,Active
+DOC-00398,HOSP-00059,Nathan Wheeler,Neurology,Lic-Invalid,0000000000,On Leave
+DOC-00399,HOSP-00046,Deborah Reyes,General Medicine,Lic-332884,0000012345,Unknown
+DOC-00400,HOSP-00075,Mrs. Donna Patton,Orthopedics,Lic-Invalid,0000000000,Unknown
+DOC-00401,HOSP-00017,Diana Mccarthy,Orthopedics,Lic-447283,0000000000,On Leave
+DOC-00402,HOSP-00013,Theresa Davis,General medicine,Unknown,8741902099,active
+DOC-00403,HOSP-00063,Oscar Patel,Orthopedics,Lic-469218,0000012345,On Leave
+DOC-00404,HOSP-00088,Christian Jordan,General medicine,Unknown,0000012345,Unknown
+DOC-00405,HOSP-00044,Samuel Mitchell Phd,Neurology,Unknown,0000012345,active
+DOC-00406,HOSP-00059,Penny Farrell,Neurology,Lic-Invalid,0000000000,Inactive
+DOC-00407,HOSP-00049,Lisa Adams,Dermatology,Unknown,0000012345,active
+DOC-00408,HOSP-00044,Kristin Donaldson,Oncology,Unknown,1702696253,Active
+DOC-00409,HOSP-00042,Susan English,Cardiology,Lic-202443,0000012345,Active
+DOC-00410,HOSP-00083,Yvonne Ortiz,Orthopedics,Lic-Invalid,0000012345,Unknown
+DOC-00411,HOSP-00037,Laura Mooney,Psychiatry,Lic-Invalid,0000012345,Unknown
+DOC-00412,HOSP-00089,Lynn Roberts,Neurology,Unknown,0000012345,Unknown
+DOC-00413,HOSP-00018,Dominique Harmon,Psychiatry,Lic-Invalid,0000012345,active
+DOC-00414,HOSP-00018,Mr. Kevin Evans,Cardiology,Unknown,4350434226,On Leave
+DOC-00415,HOSP-00055,Ashley Evans,Pediatrics,Unknown,0000012345,On Leave
+DOC-00416,HOSP-00039,Michelle Ingram,Dermatology,Unknown,0000000000,Inactive
+DOC-00417,HOSP-00089,Kyle Ramos,Dermatology,Unknown,0000012345,Active
+DOC-00418,HOSP-00083,Natalie Thompson,Pediatrics,Unknown,0000012345,Active
+DOC-00419,HOSP-00013,Alisha Aguirre,Orthopedics,Lic-Invalid,0000000000,Active
+DOC-00420,HOSP-00077,Catherine Brock,Cardiology,Lic-Invalid,7014263872,Unknown
+DOC-00421,HOSP-00007,Troy Moreno,Pediatric,Lic-278827,0000012345,On Leave
+DOC-00422,HOSP-00043,Edward Howard,Pediatric,Lic-994062,0000000000,On Leave
+DOC-00423,HOSP-00032,Victoria Kelley,Orthopedics,Lic-900709,9319351470,On Leave
+DOC-00424,HOSP-00012,Derrick Orr,General medicine,Unknown,0000012345,Unknown
+DOC-00425,HOSP-00049,Michael Young,cardiology,Lic-Invalid,5184691867,Active
+DOC-00426,HOSP-00054,Karen Brown,Neurology,Unknown,0000000000,Unknown
+DOC-00427,HOSP-00092,Jeffrey English,General medicine,Lic-170674,5771382240,Unknown
+DOC-00428,HOSP-00045,Micheal Daniels,Pediatrics,Unknown,0000000000,Unknown
+DOC-00429,HOSP-00049,Andrea Villanueva,Orthopedics,Lic-484115,0000012345,Inactive
+DOC-00430,HOSP-00009,Dr. Heather Boyd,Radiology,Lic-Invalid,0000012345,Inactive
+DOC-00431,HOSP-00082,Logan Hall,Orthopedics,Lic-878505,0000000000,Unknown
+DOC-00432,HOSP-00055,Jonathan Robinson,Cardiology,Lic-695589,0000012345,Inactive
+DOC-00433,HOSP-00038,Paul Weber,Psychiatry,Lic-Invalid,0000000000,Active
+DOC-00434,HOSP-00017,Christopher Callahan,Psychiatry,Lic-338156,4836507484,active
+DOC-00435,HOSP-00069,Michelle Cohen,Neurology,Lic-Invalid,8647299694,Inactive
+DOC-00436,HOSP-00081,Edward Watson,Oncology,Unknown,0000000000,Unknown
+DOC-00437,HOSP-00026,Elizabeth Anderson,Radiology,Lic-820214,9520203355,On Leave
+DOC-00438,HOSP-00047,James Mcfarland,Neurology,Lic-376102,0000012345,active
+DOC-00439,HOSP-00066,Melissa Lewis,ENT,Unknown,3467379670,Inactive
+DOC-00440,HOSP-00097,Amy Sheppard,Neurology,Lic-Invalid,0000012345,Inactive
+DOC-00441,HOSP-00074,Richard Morris Dds,Pediatrics,Lic-Invalid,0000000000,Inactive
+DOC-00442,HOSP-00054,Claudia Mitchell,Orthopedics,Lic-740975,5945017771,Unknown
+DOC-00443,HOSP-00027,Sarah Vega,ENT,Lic-Invalid,0000000000,Inactive
+DOC-00444,HOSP-00042,Todd Richardson,Psychiatry,Lic-695151,0000000000,On Leave
+DOC-00445,HOSP-00085,David Valdez,Cardiology,Lic-498145,0000012345,Inactive
+DOC-00446,HOSP-00091,Matthew Guzman,Cardiology,Lic-816171,3198549173,Inactive
+DOC-00447,HOSP-00030,Lydia Daniels,Orthopedics,Lic-692613,0000000000,Inactive
+DOC-00448,HOSP-00005,Kyle Bass,General Medicine,Lic-887198,0000000000,active
+DOC-00449,HOSP-00047,Samantha Kennedy,Radiology,Lic-609479,0000012345,Active
+DOC-00450,HOSP-00089,Rhonda Mccarthy,Pediatrics,Lic-Invalid,0000012345,On Leave
+DOC-00451,HOSP-00030,Bonnie Gilbert,Neurology,Lic-715165,0000000000,Inactive
+DOC-00452,HOSP-00084,Zachary Velez,Cardiology,Unknown,0000012345,Inactive
+DOC-00453,HOSP-00057,Miguel Golden,General Medicine,Unknown,8410432599,Inactive
+DOC-00454,HOSP-00090,Andrew Rogers,ENT,Lic-Invalid,8229013588,On Leave
+DOC-00455,HOSP-00006,Rachel Hamilton,Psychiatry,Unknown,0000000000,Inactive
+DOC-00456,HOSP-00074,April Gonzalez,Pediatrics,Lic-Invalid,4440972091,active
+DOC-00457,HOSP-00050,William Bailey,Oncology,Lic-934479,1288667539,active
+DOC-00458,HOSP-00046,Stephen Daniels,Orthopedics,Unknown,2088272883,Active
+DOC-00459,HOSP-00068,Scott Williams,General medicine,Lic-Invalid,2027654480,Active
+DOC-00460,HOSP-00077,Brian Smith,Cardiology,Lic-882755,3101553346,Unknown
+DOC-00461,HOSP-00035,Jason Coffey,Pediatric,Unknown,0000000000,Unknown
+DOC-00462,HOSP-00067,Benjamin Goodwin,General Medicine,Lic-Invalid,0000012345,On Leave
+DOC-00463,HOSP-00046,Sean Collins,General medicine,Unknown,0000000000,Active
+DOC-00464,HOSP-00006,Stephen Cooper,Radiology,Unknown,0000012345,active
+DOC-00465,HOSP-00087,Robert Carpenter,Cardiology,Lic-741747,6424674376,Inactive
+DOC-00466,HOSP-00010,Destiny Barton,Oncology,Lic-996187,0000012345,Inactive
+DOC-00467,HOSP-00095,James Miller,Psychiatry,Unknown,0000000000,Active
+DOC-00468,HOSP-00046,Gary Tucker,Psychiatry,Lic-839490,0000012345,On Leave
+DOC-00469,HOSP-00049,Charles Young,cardiology,Lic-530197,1867890345,Active
+DOC-00470,HOSP-00069,Laura Young,Pediatrics,Lic-Invalid,4349475907,On Leave
+DOC-00471,HOSP-00083,Monica Kelley,Pediatric,Unknown,0000012345,active
+DOC-00472,HOSP-00062,Angela Johnson,Radiology,Lic-842471,0000012345,Unknown
+DOC-00473,HOSP-00023,Eric Guzman,Neurology,Unknown,0000000000,Active
+DOC-00474,HOSP-00096,Ryan Hayes,Oncology,Lic-Invalid,0000012345,On Leave
+DOC-00475,HOSP-00094,Miss Erica Ellis Phd,Oncology,Lic-936741,0000000000,Unknown
+DOC-00476,HOSP-00048,Bruce Hatfield,General Medicine,Lic-Invalid,3177156887,On Leave
+DOC-00477,HOSP-00021,Danielle Johnson,Neurology,Lic-Invalid,0000012345,On Leave
+DOC-00478,HOSP-00022,Amanda Johnson,Dermatology,Unknown,1470939975,Inactive
+DOC-00479,HOSP-00082,Jonathan Beck,Dermatology,Unknown,0000000000,On Leave
+DOC-00480,HOSP-00036,Mark Higgins,Pediatric,Lic-262681,0000012345,Active
+DOC-00481,HOSP-00018,Lisa Holland,Pediatrics,Lic-Invalid,0000012345,On Leave
+DOC-00482,HOSP-00047,Patricia Ball,General Medicine,Unknown,0000000000,Active
+DOC-00483,HOSP-00081,Jon Burnett,Cardiology,Lic-262859,0000012345,Unknown
+DOC-00484,HOSP-00070,Elizabeth Brown,General Medicine,Lic-Invalid,8206669457,active
+DOC-00485,HOSP-00075,Allison Nunez,Pediatric,Unknown,0000000000,Active
+DOC-00486,HOSP-00092,Caitlyn Garcia,Radiology,Unknown,0000000000,Active
+DOC-00487,HOSP-00006,Stacey Hall,General medicine,Lic-Invalid,0000012345,active
+DOC-00488,HOSP-00078,Jessica Holmes,cardiology,Lic-318324,5517614513,Active
+DOC-00489,HOSP-00079,Phillip Clark,Pediatric,Lic-Invalid,7960786481,On Leave
+DOC-00490,HOSP-00034,Robert Tran,Radiology,Lic-Invalid,0000000000,Inactive
+DOC-00491,HOSP-00013,Chris Lopez,Oncology,Lic-408866,6817644274,Active
+DOC-00492,HOSP-00065,Anna Barrett,Radiology,Unknown,1626044707,On Leave
+DOC-00493,HOSP-00099,John Anderson,cardiology,Lic-355006,0000000000,On Leave
+DOC-00494,HOSP-00027,Mark Palmer,Oncology,Unknown,1816278349,On Leave
+DOC-00495,HOSP-00089,Carla Todd,General medicine,Lic-292402,3891241722,active
+DOC-00496,HOSP-00091,Amanda Long,Cardiology,Lic-956664,0000012345,active
+DOC-00497,HOSP-00093,Natalie Pennington,Pediatric,Lic-120948,1479752668,active
+DOC-00498,HOSP-00015,Lorraine Green,General medicine,Lic-Invalid,0000000000,On Leave
+DOC-00499,HOSP-00094,Brian Allen,Pediatrics,Unknown,0000000000,active
+DOC-00500,HOSP-00020,George Huber,Cardiology,Lic-569583,0000012345,active
